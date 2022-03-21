@@ -1,0 +1,11 @@
+AUT,usage,test_id,human_video_id,human_states,generated_states,human_transitions,generated_transitions,state_coverage,transition_coverage,state_recall,transition_recall,effort,reduction,core_flag
+bbc,4-Search,0,0,"['popup', 'home']","['popup', 'home']","['apply', 'to_search']","['continue', 'to_search']",1.0,0.5,1.0,0.5,1.0,0.5,
+bbc,4-Search,0,1,"['popup', 'home', 'items']","['popup', 'home']","['apply', 'to_search', 'item_i']","['continue', 'to_search']",0.6666666666666666,0.3333333333333333,1.0,0.5,2.0,0.3333333333333333,
+bbc,4-Search,0,2,"['popup', 'home']","['popup', 'home']","['apply', 'to_search']","['continue', 'to_search']",1.0,0.5,1.0,0.5,1.0,0.5,
+bbc,4-Search,0,3,"['popup', 'home']","['popup', 'home']","['apply', 'to_search']","['continue', 'to_search']",1.0,0.5,1.0,0.5,1.0,0.5,
+bbc,4-Search,0,4,"['popup', 'home']","['popup', 'home']","['apply', 'to_search']","['continue', 'to_search']",1.0,0.5,1.0,0.5,1.0,0.5,
+bbc,4-Search,0,5,"['popup', 'home', 'home']","['popup', 'home']","['apply', 'category_i', 'to_search']","['continue', 'to_search']",1.0,0.3333333333333333,1.0,0.5,2.0,0.3333333333333333,
+ebay,4-Search,0,0,['home'],"['home', 'search']",['search_bar'],"['search_bar', 'search_bar']",1.0,1.0,0.5,1.0,1.0,0.0,
+ebay,4-Search,0,1,['home'],"['home', 'search']",['search_bar'],"['search_bar', 'search_bar']",1.0,1.0,0.5,1.0,1.0,0.0,
+ebay,4-Search,0,2,"['home', 'item_detail', 'item_detail', 'search']","['home', 'search']","['item_i', 'to_search', 'search_bar']","['search_bar', 'search_bar']",0.6666666666666666,0.3333333333333333,1.0,1.0,2.0,0.3333333333333333,
+ebay,4-Search,0,3,"['home', 'category', 'items', 'items', 'items', 'items', 'search']","['home', 'search']","['search_bar', 'category_i', 'up', 'search_bar', 'category_i']","['search_bar', 'search_bar']",0.5,0.3333333333333333,1.0,1.0,3.0,0.4,

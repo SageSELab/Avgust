@@ -1,0 +1,189 @@
+{   
+    "scenarios":[
+         {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-2.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "6pm"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-3.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "6pm"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-4.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "6pm"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/aliexpress-signin-lockedaccount.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "aliexpress"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/ebay-signin-1.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "ebay"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/ebay-signin-2.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "ebay"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/etsy-signin-1.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "etsy"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/target-signin-error.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "target"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/wish-video-signin-1.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "wish"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/wish-video-signin-2.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "wish"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/wish-video-signin-3.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "wish"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/wish-video-signin-4.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "wish"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/aliexpress-video-signin-1-1.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "aliexpress"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/aliexpress-video-signin-1-2.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "aliexpress"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/groupon-video-signin-2-1.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "groupon"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/groupon-video-signin-2-2.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "groupon"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/home-video-signin-3-1.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "home"
+        },
+        {
+            "video_path": "/mnt/nfs/scratch1/XXXzhao/input/Sign_In/home-video-signin-3-2.mp4",
+            "device_model": "Nexus_5X",
+            "arch": "x86",
+            "emulator": "True",
+            "touch_model": "v2s/phase1/detection/touch_model/saved_model_n5/frozen_inference_graph_n5.pb",
+            "labelmap": "v2s/phase1/detection/touch_model/v2s_label_map.pbtxt",
+            "opacity_model": "v2s/phase1/detection/opacity_model/model-saved-alex8-tuned.h5",
+            "app_name": "home"
+        }
+
+    ],
+    "packages":
+        {
+            "adb_path": "/home/XXXzhao/Android/platform-tools"
+        }
+}

@@ -1,0 +1,3 @@
+AUT,usage,test_id,human_video_id,human_states,generated_states,human_transitions,generated_transitions,state_coverage,transition_coverage,state_recall,transition_recall,effort,reduction,core_flag
+6pm,3-Category,0,0,"['home', 'category', 'category', 'filter', 'filter']",['home'],"['category_i', 'category_i', 'category_i', 'filter', 'category_i']",['category_i'],0.3333333333333333,0.5,1.0,1.0,4.0,0.2,
+6pm,3-Category,0,1,"['category', 'category', 'category', 'filter']",['home'],"['category_i', 'category_i', 'category_i', 'category_i']",['category_i'],0.0,1.0,0.0,1.0,3.0,0.25,
