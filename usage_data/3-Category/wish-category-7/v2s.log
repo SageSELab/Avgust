@@ -1,0 +1,144 @@
+INFO:root:Manipulating: wish-category-7.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-7/wish-category-7-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-7/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-7.mp4]
+INFO:root:Touch detection process took: 0:35:54
+INFO:root:Detecting opacity value for video : wish-category-7.mp4
+INFO:root:Manipulating: 6pm-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/6pm-category-2/6pm-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/6pm-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-category-2.mp4]
+INFO:root:Touch detection process took: 0:41:25
+INFO:root:Detecting opacity value for video : 6pm-category-2.mp4
+INFO:root:Manipulating: home-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/home-category-1/home-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/home-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [home-category-1.mp4]
+INFO:root:Touch detection process took: 1:56:08
+INFO:root:Detecting opacity value for video : home-category-1.mp4
+INFO:root:Manipulating: wish-category-8.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-8/wish-category-8-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-8/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-8.mp4]
+INFO:root:Touch detection process took: 0:42:47
+INFO:root:Detecting opacity value for video : wish-category-8.mp4
+INFO:root:Manipulating: 6pm-category-4.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/6pm-category-4/6pm-category-4-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/6pm-category-4/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-category-4.mp4]
+INFO:root:Touch detection process took: 2:37:37
+INFO:root:Detecting opacity value for video : 6pm-category-4.mp4
+INFO:root:Manipulating: wish-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-1/wish-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-1.mp4]
+INFO:root:Touch detection process took: 1:33:57
+INFO:root:Detecting opacity value for video : wish-category-1.mp4
+INFO:root:Manipulating: geek-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/geek-category-2/geek-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/geek-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [geek-category-2.mp4]
+INFO:root:Touch detection process took: 1:42:39
+INFO:root:Detecting opacity value for video : geek-category-2.mp4
+INFO:root:Manipulating: wish-category-6.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-6/wish-category-6-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-6/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-6.mp4]
+INFO:root:Touch detection process took: 0:49:54
+INFO:root:Detecting opacity value for video : wish-category-6.mp4
+INFO:root:Manipulating: 6pm-category-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/6pm-category-3/6pm-category-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/6pm-category-3/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-category-3.mp4]
+INFO:root:Touch detection process took: 0:38:38
+INFO:root:Detecting opacity value for video : 6pm-category-3.mp4
+INFO:root:Manipulating: groupon-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-1/groupon-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-category-1.mp4]
+INFO:root:Touch detection process took: 3:01:46
+INFO:root:Detecting opacity value for video : groupon-category-1.mp4
+INFO:root:Manipulating: groupon-category-6.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-6/groupon-category-6-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-6/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-category-6.mp4]
+INFO:root:Touch detection process took: 2:22:30
+INFO:root:Detecting opacity value for video : groupon-category-6.mp4
+INFO:root:Manipulating: groupon-category-5.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-5/groupon-category-5-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-5/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-category-5.mp4]
+INFO:root:Touch detection process took: 2:00:25
+INFO:root:Detecting opacity value for video : groupon-category-5.mp4
+INFO:root:Manipulating: groupon-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-2/groupon-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-category-2.mp4]
+INFO:root:Touch detection process took: 1:24:49
+INFO:root:Detecting opacity value for video : groupon-category-2.mp4
+INFO:root:Manipulating: home-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/home-category-2/home-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/home-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [home-category-2.mp4]
+INFO:root:Touch detection process took: 2:01:05
+INFO:root:Detecting opacity value for video : home-category-2.mp4
+INFO:root:Manipulating: wish-category-5.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-5/wish-category-5-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-5/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-5.mp4]
+INFO:root:Touch detection process took: 1:03:35
+INFO:root:Detecting opacity value for video : wish-category-5.mp4
+INFO:root:Manipulating: wish-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-2/wish-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-2.mp4]
+INFO:root:Touch detection process took: 2:25:22
+INFO:root:Detecting opacity value for video : wish-category-2.mp4
+INFO:root:Manipulating: geek-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/geek-category-1/geek-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/geek-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [geek-category-1.mp4]
+INFO:root:Touch detection process took: 1:27:56
+INFO:root:Detecting opacity value for video : geek-category-1.mp4
+INFO:root:Manipulating: groupon-category-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-3/groupon-category-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-3/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-category-3.mp4]
+INFO:root:Touch detection process took: 1:40:03
+INFO:root:Detecting opacity value for video : groupon-category-3.mp4
+INFO:root:Manipulating: groupon-category-4.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-4/groupon-category-4-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/groupon-category-4/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-category-4.mp4]
+INFO:root:Touch detection process took: 1:38:12
+INFO:root:Detecting opacity value for video : groupon-category-4.mp4
+INFO:root:Manipulating: wish-category-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-3/wish-category-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-3/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-3.mp4]
+INFO:root:Touch detection process took: 1:28:19
+INFO:root:Detecting opacity value for video : wish-category-3.mp4
+INFO:root:Manipulating: wish-category-4.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-4/wish-category-4-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/wish-category-4/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-4.mp4]
+INFO:root:Touch detection process took: 1:59:47
+INFO:root:Detecting opacity value for video : wish-category-4.mp4
+INFO:root:Manipulating: 6pm-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/6pm-category-1/6pm-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/6pm-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-category-1.mp4]
+INFO:root:Touch detection process took: 0:43:17
+INFO:root:Detecting opacity value for video : 6pm-category-1.mp4
+INFO:root:Manipulating: home-category-4.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/home-category-4/home-category-4-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/home-category-4/extracted_frames/
+INFO:root:Detecting touches for video: [home-category-4.mp4]
+INFO:root:Touch detection process took: 1:29:00
+INFO:root:Detecting opacity value for video : home-category-4.mp4
+INFO:root:Manipulating: home-category-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Category/home-category-3/home-category-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Category/home-category-3/extracted_frames/
+INFO:root:Detecting touches for video: [home-category-3.mp4]
+INFO:root:Touch detection process took: 2:45:09
+INFO:root:Detecting opacity value for video : home-category-3.mp4

@@ -1,0 +1,108 @@
+INFO:root:Manipulating: dailyhunt-video-fontSize1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-video-fontSize1/dailyhunt-video-fontSize1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-video-fontSize1/extracted_frames/
+INFO:root:Detecting touches for video: [dailyhunt-video-fontSize1.mp4]
+INFO:root:Touch detection process took: 1:08:47
+INFO:root:Detecting opacity value for video : dailyhunt-video-fontSize1.mp4
+INFO:root:Manipulating: reuters-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-textsize-1/reuters-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-textsize-1/extracted_frames/
+INFO:root:Detecting opacity value for video : reuters-textsize-1.mp4
+INFO:root:Manipulating: fox-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-textsize-1/fox-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-textsize-1/extracted_frames/
+INFO:root:Detecting opacity value for video : fox-textsize-1.mp4
+INFO:root:Manipulating: usatoday-video-fontSize1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/usatoday-video-fontSize1/usatoday-video-fontSize1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/usatoday-video-fontSize1/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-video-fontSize1.mp4]
+INFO:root:Touch detection process took: 0:51:00
+INFO:root:Detecting opacity value for video : usatoday-video-fontSize1.mp4
+INFO:root:Manipulating: newsbreak-video-fontSize1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/newsbreak-video-fontSize1/newsbreak-video-fontSize1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/newsbreak-video-fontSize1/extracted_frames/
+INFO:root:Detecting touches for video: [newsbreak-video-fontSize1.mp4]
+INFO:root:Touch detection process took: 0:59:37
+INFO:root:Detecting opacity value for video : newsbreak-video-fontSize1.mp4
+INFO:root:Manipulating: dailyhunt-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-textsize-1/dailyhunt-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-textsize-1/extracted_frames/
+INFO:root:Detecting opacity value for video : dailyhunt-textsize-1.mp4
+INFO:root:Manipulating: guardian-video-fontSize1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-video-fontSize1/guardian-video-fontSize1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-video-fontSize1/extracted_frames/
+INFO:root:Detecting touches for video: [guardian-video-fontSize1.mp4]
+INFO:root:Touch detection process took: 0:38:00
+INFO:root:Detecting opacity value for video : guardian-video-fontSize1.mp4
+INFO:root:Manipulating: reuters-video-fontSize1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-video-fontSize1/reuters-video-fontSize1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-video-fontSize1/extracted_frames/
+INFO:root:Detecting touches for video: [reuters-video-fontSize1.mp4]
+INFO:root:Touch detection process took: 0:43:05
+INFO:root:Detecting opacity value for video : reuters-video-fontSize1.mp4
+INFO:root:Manipulating: guardian-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-textsize-1/guardian-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-textsize-1/extracted_frames/
+INFO:root:Detecting opacity value for video : guardian-textsize-1.mp4
+INFO:root:Manipulating: fox-video-fontSize1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-video-fontSize1/fox-video-fontSize1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-video-fontSize1/extracted_frames/
+INFO:root:Detecting touches for video: [fox-video-fontSize1.mp4]
+INFO:root:Touch detection process took: 0:49:16
+INFO:root:Detecting opacity value for video : fox-video-fontSize1.mp4
+INFO:root:Manipulating: guardian-textsize-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-textsize-2/guardian-textsize-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-textsize-2/extracted_frames/
+INFO:root:Detecting opacity value for video : guardian-textsize-2.mp4
+INFO:root:Manipulating: fox-video-fontSize2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-video-fontSize2/fox-video-fontSize2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-video-fontSize2/extracted_frames/
+INFO:root:Detecting touches for video: [fox-video-fontSize2.mp4]
+INFO:root:Touch detection process took: 0:48:48
+INFO:root:Detecting opacity value for video : fox-video-fontSize2.mp4
+INFO:root:Manipulating: reuters-video-fontSize2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-video-fontSize2/reuters-video-fontSize2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-video-fontSize2/extracted_frames/
+INFO:root:Detecting touches for video: [reuters-video-fontSize2.mp4]
+INFO:root:Touch detection process took: 0:44:43
+INFO:root:Detecting opacity value for video : reuters-video-fontSize2.mp4
+INFO:root:Manipulating: newsbreak-video-fontSize2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/newsbreak-video-fontSize2/newsbreak-video-fontSize2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/newsbreak-video-fontSize2/extracted_frames/
+INFO:root:Detecting touches for video: [newsbreak-video-fontSize2.mp4]
+INFO:root:Touch detection process took: 1:05:46
+INFO:root:Detecting opacity value for video : newsbreak-video-fontSize2.mp4
+INFO:root:Manipulating: newsbreak-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/newsbreak-textsize-1/newsbreak-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/newsbreak-textsize-1/extracted_frames/
+INFO:root:Detecting opacity value for video : newsbreak-textsize-1.mp4
+INFO:root:Manipulating: dailyhunt-textsize-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-textsize-2/dailyhunt-textsize-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-textsize-2/extracted_frames/
+INFO:root:Detecting opacity value for video : dailyhunt-textsize-2.mp4
+INFO:root:Manipulating: guardian-video-fontSize2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-video-fontSize2/guardian-video-fontSize2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-video-fontSize2/extracted_frames/
+INFO:root:Detecting touches for video: [guardian-video-fontSize2.mp4]
+INFO:root:Touch detection process took: 0:44:52
+INFO:root:Detecting opacity value for video : guardian-video-fontSize2.mp4
+INFO:root:Manipulating: reuters-textsize-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-textsize-2/reuters-textsize-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-textsize-2/extracted_frames/
+INFO:root:Detecting opacity value for video : reuters-textsize-2.mp4
+INFO:root:Manipulating: dailyhunt-video-fontSize2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-video-fontSize2/dailyhunt-video-fontSize2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-video-fontSize2/extracted_frames/
+INFO:root:Detecting touches for video: [dailyhunt-video-fontSize2.mp4]
+INFO:root:Touch detection process took: 1:02:10
+INFO:root:Detecting opacity value for video : dailyhunt-video-fontSize2.mp4
+INFO:root:Manipulating: fox-textsize-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-textsize-2/fox-textsize-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-textsize-2/extracted_frames/
+INFO:root:Detecting opacity value for video : fox-textsize-2.mp4
+INFO:root:Manipulating: usatoday-video-fontSize2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/usatoday-video-fontSize2/usatoday-video-fontSize2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/usatoday-video-fontSize2/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-video-fontSize2.mp4]
+INFO:root:Touch detection process took: 0:59:09
+INFO:root:Detecting opacity value for video : usatoday-video-fontSize2.mp4

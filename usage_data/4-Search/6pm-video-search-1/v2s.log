@@ -1,0 +1,76 @@
+INFO:root:Manipulating: 6pm-video-search-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/6pm-video-search-1/6pm-video-search-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/6pm-video-search-1/extracted_frames/
+INFO:root:Detecting opacity value for video : 6pm-video-search-1.mp4
+INFO:root:Manipulating: groupon-video-search-1-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/groupon-video-search-1-2/groupon-video-search-1-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/groupon-video-search-1-2/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-video-search-1-2.mp4]
+INFO:root:Touch detection process took: 0:34:41
+INFO:root:Detecting opacity value for video : groupon-video-search-1-2.mp4
+INFO:root:Manipulating: home-video-search-3-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/home-video-search-3-1/home-video-search-3-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/home-video-search-3-1/extracted_frames/
+INFO:root:Detecting touches for video: [home-video-search-3-1.mp4]
+INFO:root:Touch detection process took: 1:53:49
+INFO:root:Detecting opacity value for video : home-video-search-3-1.mp4
+INFO:root:Manipulating: ebay-search-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/ebay-search-1/ebay-search-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/ebay-search-1/extracted_frames/
+INFO:root:Detecting touches for video: [ebay-search-1.mp4]
+INFO:root:Touch detection process took: 0:52:09
+INFO:root:Detecting opacity value for video : ebay-search-1.mp4
+INFO:root:Manipulating: wish-video-search-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/wish-video-search-1/wish-video-search-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/wish-video-search-1/extracted_frames/
+INFO:root:Detecting touches for video: [wish-video-search-1.mp4]
+INFO:root:Touch detection process took: 2:01:35
+INFO:root:Detecting opacity value for video : wish-video-search-1.mp4
+INFO:root:Manipulating: etsy-search-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/etsy-search-1/etsy-search-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/etsy-search-1/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-search-1.mp4]
+INFO:root:Touch detection process took: 1:10:31
+INFO:root:Detecting opacity value for video : etsy-search-1.mp4
+INFO:root:Manipulating: ebay-search-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/ebay-search-2/ebay-search-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/ebay-search-2/extracted_frames/
+INFO:root:Detecting touches for video: [ebay-search-2.mp4]
+INFO:root:Touch detection process took: 1:00:54
+INFO:root:Detecting opacity value for video : ebay-search-2.mp4
+INFO:root:Manipulating: wish-video-search-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/wish-video-search-2/wish-video-search-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/wish-video-search-2/extracted_frames/
+INFO:root:Detecting touches for video: [wish-video-search-2.mp4]
+INFO:root:Touch detection process took: 2:40:00
+INFO:root:Detecting opacity value for video : wish-video-search-2.mp4
+INFO:root:Manipulating: etsy-search-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/etsy-search-2/etsy-search-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/etsy-search-2/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-search-2.mp4]
+INFO:root:Touch detection process took: 1:26:28
+INFO:root:Detecting opacity value for video : etsy-search-2.mp4
+INFO:root:Manipulating: 6pm-video-search-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/6pm-video-search-3/6pm-video-search-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/6pm-video-search-3/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-video-search-3.mp4]
+INFO:root:Touch detection process took: 2:15:11
+INFO:root:Detecting opacity value for video : 6pm-video-search-3.mp4
+INFO:root:Manipulating: groupon-video-search-1-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/groupon-video-search-1-1/groupon-video-search-1-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/groupon-video-search-1-1/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-video-search-1-1.mp4]
+INFO:root:Touch detection process took: 0:36:19
+INFO:root:Detecting opacity value for video : groupon-video-search-1-1.mp4
+INFO:root:Manipulating: home-video-search-3-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/home-video-search-3-2/home-video-search-3-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/home-video-search-3-2/extracted_frames/
+INFO:root:Detecting touches for video: [home-video-search-3-2.mp4]
+INFO:root:Touch detection process took: 1:48:45
+INFO:root:Detecting opacity value for video : home-video-search-3-2.mp4
+INFO:root:Manipulating: 6pm-video-search-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Search/6pm-video-search-2/6pm-video-search-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Search/6pm-video-search-2/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-video-search-2.mp4]
+INFO:root:Touch detection process took: 1:08:09
+INFO:root:Detecting opacity value for video : 6pm-video-search-2.mp4

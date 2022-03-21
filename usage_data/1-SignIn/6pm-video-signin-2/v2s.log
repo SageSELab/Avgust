@@ -1,0 +1,16 @@
+INFO:root:Manipulating: 6pm-video-signin-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-2/6pm-video-signin-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-2/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-video-signin-2.mp4]
+INFO:root:Touch detection process took: 3:21:13
+INFO:root:Detecting opacity value for video : 6pm-video-signin-2.mp4
+INFO:root:Manipulating: 6pm-video-signin-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-3/6pm-video-signin-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-3/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-video-signin-3.mp4]
+INFO:root:Touch detection process took: 4:34:11
+INFO:root:Detecting opacity value for video : 6pm-video-signin-3.mp4
+INFO:root:Manipulating: 6pm-video-signin-4.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-4/6pm-video-signin-4-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Sign_In/6pm-video-signin-4/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-video-signin-4.mp4]

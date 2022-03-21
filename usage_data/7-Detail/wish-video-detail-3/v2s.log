@@ -1,0 +1,72 @@
+INFO:root:Manipulating: wish-video-detail-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/wish-video-detail-3/wish-video-detail-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/wish-video-detail-3/extracted_frames/
+INFO:root:Detecting touches for video: [wish-video-detail-3.mp4]
+INFO:root:Touch detection process took: 4:09:26
+INFO:root:Detecting opacity value for video : wish-video-detail-3.mp4
+INFO:root:Manipulating: ebay-details-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/ebay-details-2/ebay-details-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/ebay-details-2/extracted_frames/
+INFO:root:Detecting touches for video: [ebay-details-2.mp4]
+INFO:root:Touch detection process took: 0:51:41
+INFO:root:Detecting opacity value for video : ebay-details-2.mp4
+INFO:root:Manipulating: etsy-details-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/etsy-details-1/etsy-details-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/etsy-details-1/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-details-1.mp4]
+INFO:root:Touch detection process took: 0:40:19
+INFO:root:Detecting opacity value for video : etsy-details-1.mp4
+INFO:root:Manipulating: 6pm-video-detail-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/6pm-video-detail-1/6pm-video-detail-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/6pm-video-detail-1/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-video-detail-1.mp4]
+INFO:root:Touch detection process took: 1:19:46
+INFO:root:Detecting opacity value for video : 6pm-video-detail-1.mp4
+INFO:root:Manipulating: wish-video-detail-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/wish-video-detail-2/wish-video-detail-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/wish-video-detail-2/extracted_frames/
+INFO:root:Detecting touches for video: [wish-video-detail-2.mp4]
+INFO:root:Touch detection process took: 4:04:07
+INFO:root:Detecting opacity value for video : wish-video-detail-2.mp4
+INFO:root:Manipulating: aliexpress-details-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/aliexpress-details-2/aliexpress-details-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/aliexpress-details-2/extracted_frames/
+INFO:root:Detecting touches for video: [aliexpress-details-2.mp4]
+INFO:root:Touch detection process took: 0:53:31
+INFO:root:Detecting opacity value for video : aliexpress-details-2.mp4
+INFO:root:Manipulating: aliexpress-details-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/aliexpress-details-1/aliexpress-details-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/aliexpress-details-1/extracted_frames/
+INFO:root:Detecting touches for video: [aliexpress-details-1.mp4]
+INFO:root:Touch detection process took: 0:41:03
+INFO:root:Detecting opacity value for video : aliexpress-details-1.mp4
+INFO:root:Manipulating: ebay-details-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/ebay-details-1/ebay-details-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/ebay-details-1/extracted_frames/
+INFO:root:Detecting touches for video: [ebay-details-1.mp4]
+INFO:root:Touch detection process took: 1:06:07
+INFO:root:Detecting opacity value for video : ebay-details-1.mp4
+INFO:root:Manipulating: 6pm-video-detail-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/6pm-video-detail-2/6pm-video-detail-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/6pm-video-detail-2/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-video-detail-2.mp4]
+INFO:root:Touch detection process took: 2:33:40
+INFO:root:Detecting opacity value for video : 6pm-video-detail-2.mp4
+INFO:root:Manipulating: etsy-details-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/etsy-details-2/etsy-details-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/etsy-details-2/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-details-2.mp4]
+INFO:root:Touch detection process took: 0:46:43
+INFO:root:Detecting opacity value for video : etsy-details-2.mp4
+INFO:root:Manipulating: wish-video-detail-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/wish-video-detail-1/wish-video-detail-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/wish-video-detail-1/extracted_frames/
+INFO:root:Detecting touches for video: [wish-video-detail-1.mp4]
+INFO:root:Touch detection process took: 3:46:47
+INFO:root:Detecting opacity value for video : wish-video-detail-1.mp4
+INFO:root:Manipulating: 6pm-video-detail-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/Detail/6pm-video-detail-3/6pm-video-detail-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/Detail/6pm-video-detail-3/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-video-detail-3.mp4]
+INFO:root:Touch detection process took: 2:06:00
+INFO:root:Detecting opacity value for video : 6pm-video-detail-3.mp4

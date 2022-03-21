@@ -1,0 +1,54 @@
+INFO:root:Manipulating: reuters-removebookmark-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/reuters-removebookmark-2/reuters-removebookmark-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/reuters-removebookmark-2/extracted_frames/
+INFO:root:Detecting touches for video: [reuters-removebookmark-2.mp4]
+INFO:root:Touch detection process took: 1:23:17
+INFO:root:Detecting opacity value for video : reuters-removebookmark-2.mp4
+INFO:root:Manipulating: fox-removebookmark-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/fox-removebookmark-1/fox-removebookmark-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/fox-removebookmark-1/extracted_frames/
+INFO:root:Detecting touches for video: [fox-removebookmark-1.mp4]
+INFO:root:Touch detection process took: 1:39:13
+INFO:root:Detecting opacity value for video : fox-removebookmark-1.mp4
+INFO:root:Manipulating: usatoday-removebookmark-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/usatoday-removebookmark-2/usatoday-removebookmark-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/usatoday-removebookmark-2/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-removebookmark-2.mp4]
+INFO:root:Touch detection process took: 1:05:50
+INFO:root:Detecting opacity value for video : usatoday-removebookmark-2.mp4
+INFO:root:Manipulating: reuters-removebookmark-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/reuters-removebookmark-3/reuters-removebookmark-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/reuters-removebookmark-3/extracted_frames/
+INFO:root:Detecting touches for video: [reuters-removebookmark-3.mp4]
+INFO:root:Touch detection process took: 0:47:30
+INFO:root:Detecting opacity value for video : reuters-removebookmark-3.mp4
+INFO:root:Manipulating: aliexpress-removebookmark-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/aliexpress-removebookmark-1/aliexpress-removebookmark-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/aliexpress-removebookmark-1/extracted_frames/
+INFO:root:Detecting touches for video: [aliexpress-removebookmark-1.mp4]
+INFO:root:Touch detection process took: 3:23:56
+INFO:root:Detecting opacity value for video : aliexpress-removebookmark-1.mp4
+INFO:root:Manipulating: dailyhunt-removebookmark-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/dailyhunt-removebookmark-1/dailyhunt-removebookmark-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/dailyhunt-removebookmark-1/extracted_frames/
+INFO:root:Detecting touches for video: [dailyhunt-removebookmark-1.mp4]
+INFO:root:Touch detection process took: 1:23:38
+INFO:root:Detecting opacity value for video : dailyhunt-removebookmark-1.mp4
+INFO:root:Manipulating: reuters-removebookmark-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/reuters-removebookmark-1/reuters-removebookmark-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/reuters-removebookmark-1/extracted_frames/
+INFO:root:Detecting touches for video: [reuters-removebookmark-1.mp4]
+INFO:root:Touch detection process took: 0:54:44
+INFO:root:Detecting opacity value for video : reuters-removebookmark-1.mp4
+INFO:root:Manipulating: fox-removebookmark-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/fox-removebookmark-2/fox-removebookmark-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/fox-removebookmark-2/extracted_frames/
+INFO:root:Detecting touches for video: [fox-removebookmark-2.mp4]
+INFO:root:Touch detection process took: 0:52:50
+INFO:root:Detecting opacity value for video : fox-removebookmark-2.mp4
+INFO:root:Manipulating: usatoday-removebookmark-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/usatoday-removebookmark-1/usatoday-removebookmark-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/RemoveBookmark/usatoday-removebookmark-1/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-removebookmark-1.mp4]
+INFO:root:Touch detection process took: 0:29:11
+INFO:root:Detecting opacity value for video : usatoday-removebookmark-1.mp4

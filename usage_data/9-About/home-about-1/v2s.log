@@ -1,0 +1,66 @@
+INFO:root:Manipulating: home-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/home-about-1/home-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/home-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [home-about-1.mp4]
+INFO:root:Touch detection process took: 1:42:58
+INFO:root:Detecting opacity value for video : home-about-1.mp4
+INFO:root:Manipulating: groupon-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/groupon-about-1/groupon-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/groupon-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-about-1.mp4]
+INFO:root:Touch detection process took: 2:04:00
+INFO:root:Detecting opacity value for video : groupon-about-1.mp4
+INFO:root:Manipulating: wish-about-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/wish-about-2/wish-about-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/wish-about-2/extracted_frames/
+INFO:root:Detecting touches for video: [wish-about-2.mp4]
+INFO:root:Touch detection process took: 1:58:22
+INFO:root:Detecting opacity value for video : wish-about-2.mp4
+INFO:root:Manipulating: geek-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/geek-about-1/geek-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/geek-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [geek-about-1.mp4]
+INFO:root:Touch detection process took: 1:29:05
+INFO:root:Detecting opacity value for video : geek-about-1.mp4
+INFO:root:Manipulating: 6PM-about-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/6PM-about-2/6PM-about-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/6PM-about-2/extracted_frames/
+INFO:root:Detecting touches for video: [6PM-about-2.mp4]
+INFO:root:Touch detection process took: 0:44:23
+INFO:root:Detecting opacity value for video : 6PM-about-2.mp4
+INFO:root:Manipulating: wish-about-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/wish-about-3/wish-about-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/wish-about-3/extracted_frames/
+INFO:root:Detecting touches for video: [wish-about-3.mp4]
+INFO:root:Touch detection process took: 1:19:09
+INFO:root:Detecting opacity value for video : wish-about-3.mp4
+INFO:root:Manipulating: 6PM-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/6PM-about-1/6PM-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/6PM-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [6PM-about-1.mp4]
+INFO:root:Touch detection process took: 1:41:05
+INFO:root:Detecting opacity value for video : 6PM-about-1.mp4
+INFO:root:Manipulating: wish-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/wish-about-1/wish-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/wish-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [wish-about-1.mp4]
+INFO:root:Touch detection process took: 1:23:57
+INFO:root:Detecting opacity value for video : wish-about-1.mp4
+INFO:root:Manipulating: home-about-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/home-about-2/home-about-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/home-about-2/extracted_frames/
+INFO:root:Detecting touches for video: [home-about-2.mp4]
+INFO:root:Touch detection process took: 1:59:16
+INFO:root:Detecting opacity value for video : home-about-2.mp4
+INFO:root:Manipulating: aliexpress-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/aliexpress-about-1/aliexpress-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/aliexpress-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [aliexpress-about-1.mp4]
+INFO:root:Touch detection process took: 0:29:20
+INFO:root:Detecting opacity value for video : aliexpress-about-1.mp4
+INFO:root:Manipulating: groupon-about-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/input/About/groupon-about-2/groupon-about-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/input/About/groupon-about-2/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-about-2.mp4]
+INFO:root:Touch detection process took: 2:35:00
+INFO:root:Detecting opacity value for video : groupon-about-2.mp4

@@ -1,0 +1,54 @@
+INFO:root:Manipulating: reuters-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-textsize-1/reuters-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-textsize-1/extracted_frames/
+INFO:root:Detecting touches for video: [reuters-textsize-1.mp4]
+INFO:root:Touch detection process took: 0:40:13
+INFO:root:Detecting opacity value for video : reuters-textsize-1.mp4
+INFO:root:Manipulating: fox-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-textsize-1/fox-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-textsize-1/extracted_frames/
+INFO:root:Detecting touches for video: [fox-textsize-1.mp4]
+INFO:root:Touch detection process took: 0:48:59
+INFO:root:Detecting opacity value for video : fox-textsize-1.mp4
+INFO:root:Manipulating: dailyhunt-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-textsize-1/dailyhunt-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-textsize-1/extracted_frames/
+INFO:root:Detecting touches for video: [dailyhunt-textsize-1.mp4]
+INFO:root:Touch detection process took: 1:19:40
+INFO:root:Detecting opacity value for video : dailyhunt-textsize-1.mp4
+INFO:root:Manipulating: guardian-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-textsize-1/guardian-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-textsize-1/extracted_frames/
+INFO:root:Detecting touches for video: [guardian-textsize-1.mp4]
+INFO:root:Touch detection process took: 0:48:36
+INFO:root:Detecting opacity value for video : guardian-textsize-1.mp4
+INFO:root:Manipulating: guardian-textsize-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-textsize-2/guardian-textsize-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/guardian-textsize-2/extracted_frames/
+INFO:root:Detecting touches for video: [guardian-textsize-2.mp4]
+INFO:root:Touch detection process took: 1:19:34
+INFO:root:Detecting opacity value for video : guardian-textsize-2.mp4
+INFO:root:Manipulating: newsbreak-textsize-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/newsbreak-textsize-1/newsbreak-textsize-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/newsbreak-textsize-1/extracted_frames/
+INFO:root:Detecting touches for video: [newsbreak-textsize-1.mp4]
+INFO:root:Touch detection process took: 0:55:00
+INFO:root:Detecting opacity value for video : newsbreak-textsize-1.mp4
+INFO:root:Manipulating: dailyhunt-textsize-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-textsize-2/dailyhunt-textsize-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/dailyhunt-textsize-2/extracted_frames/
+INFO:root:Detecting touches for video: [dailyhunt-textsize-2.mp4]
+INFO:root:Touch detection process took: 2:19:27
+INFO:root:Detecting opacity value for video : dailyhunt-textsize-2.mp4
+INFO:root:Manipulating: reuters-textsize-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-textsize-2/reuters-textsize-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/reuters-textsize-2/extracted_frames/
+INFO:root:Detecting touches for video: [reuters-textsize-2.mp4]
+INFO:root:Touch detection process took: 0:59:53
+INFO:root:Detecting opacity value for video : reuters-textsize-2.mp4
+INFO:root:Manipulating: fox-textsize-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-textsize-2/fox-textsize-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/TextSize/fox-textsize-2/extracted_frames/
+INFO:root:Detecting touches for video: [fox-textsize-2.mp4]
+INFO:root:Touch detection process took: 1:25:51
+INFO:root:Detecting opacity value for video : fox-textsize-2.mp4

@@ -1,0 +1,24 @@
+INFO:root:Manipulating: 6pm-filter-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/Filter/6pm-filter-3/6pm-filter-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/Filter/6pm-filter-3/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-filter-3.mp4]
+INFO:root:Touch detection process took: 0:34:45
+INFO:root:Detecting opacity value for video : 6pm-filter-3.mp4
+INFO:root:Manipulating: 6pm-filter-4.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/Filter/6pm-filter-4/6pm-filter-4-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/Filter/6pm-filter-4/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-filter-4.mp4]
+INFO:root:Touch detection process took: 0:37:34
+INFO:root:Detecting opacity value for video : 6pm-filter-4.mp4
+INFO:root:Manipulating: 6pm-filter-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/Filter/6pm-filter-2/6pm-filter-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/Filter/6pm-filter-2/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-filter-2.mp4]
+INFO:root:Touch detection process took: 0:57:18
+INFO:root:Detecting opacity value for video : 6pm-filter-2.mp4
+INFO:root:Manipulating: 6pm-filter-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/Filter/6pm-filter-1/6pm-filter-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/XXXzhao/v2s_input/summer_data/Filter/6pm-filter-1/extracted_frames/
+INFO:root:Detecting touches for video: [6pm-filter-1.mp4]
+INFO:root:Touch detection process took: 0:44:21
+INFO:root:Detecting opacity value for video : 6pm-filter-1.mp4
