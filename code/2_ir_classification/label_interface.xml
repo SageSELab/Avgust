@@ -1,0 +1,143 @@
+<View>
+  <Image name="screen" value="$screen" width="40%"/>
+  <Filter name="screen_filter" toName="tag_screen" minlength="1" placeholder="ex. sign_in"/>
+  <Choices name="tag_screen" toName="screen" showInline="true" choice="multiple">
+    <Choice value="about" background="#FFC069"/>
+    <Choice value="account" background="#AD8B00"/>
+    <Choice value="account_guest" background="#D3F261"/>
+    <Choice value="address_add" background="#389E0D"/>
+    <Choice value="address_edit" background="#5CDBD3"/>
+    <Choice value="cart" background="#096DD9"/>
+    <Choice value="quantity" background="#ADC6FF"/>
+    <Choice value="confirm_remove"/>
+    <Choice value="category"/>
+    <Choice value="city_spinner"/>
+    <Choice value="contact"/>
+    <Choice value="filter_option"/>
+    <Choice value="filter_sort"/>
+    <Choice value="get_started"/>
+    <Choice value="help"/>
+    <Choice value="home"/>
+    <Choice value="item_detail"/>
+    <Choice value="items"/>
+    <Choice value="menu"/>
+    <Choice value="profile_edit"/>
+    <Choice value="search"/>
+    <Choice value="setting"/>
+    <Choice value="sign_in"/>
+    <Choice value="password"/>
+    <Choice value="username"/>
+    <Choice value="sign_up"/>
+    <Choice value="sign_up_birthday"/>
+    <Choice value="state_spinner"/>
+    <Choice value="terms"/>
+    <Choice value="bookmark"/>
+    <Choice value="text_size"/>
+    <Choice value="signin_amazon"/>
+    <Choice value="pwd_assistant"/>
+    <Choice value="signin_google"/>
+    <Choice value="signin_fb"/>
+    <Choice value="signin_google_popup"/>
+    <Choice value="error"/>
+    <Choice value="popup"/>
+    <Choice value="gender"/>
+    <Choice value="alert"/>
+    <Choice value="checkout"/>
+    <Choice value="interests"/>
+    <Choice value="signin_or_signup"/>
+  </Choices>
+  <Image name="widget" value="$widget"/>
+  <Filter name="widget_filter" toName="tag_widget" minlength="1" placeholder="ex. signin"/>
+  <Choices name="tag_widget" toName="widget" showInline="true" choice="multiple">
+    <Choice value="about" background="#9254DE"/>
+    <Choice value="to_address" background="#F759AB"/>
+    <Choice value="add_cart" background="#D4380D"/>
+    <Choice value="add" background="#FFC069"/>
+    <Choice value="city" background="#AD8B00"/>
+    <Choice value="phone" background="#D3F261"/>
+    <Choice value="save"/>
+    <Choice value="state"/>
+    <Choice value="state_spinner"/>
+    <Choice value="street"/>
+    <Choice value="country"/>
+    <Choice value="zipcode"/>
+    <Choice value="back"/>
+    <Choice value="bypass"/>
+    <Choice value="cart"/>
+    <Choice value="number"/>
+    <Choice value="quantity"/>
+    <Choice value="remove"/>
+    <Choice value="confirm"/>
+    <Choice value="select_all"/>
+    <Choice value="category_i"/>
+    <Choice value="category"/>
+    <Choice value="contact"/>
+    <Choice value="edit"/>
+    <Choice value="filter"/>
+    <Choice value="filter_color"/>
+    <Choice value="apply"/>
+    <Choice value="filter_price"/>
+    <Choice value="filter_rating"/>
+    <Choice value="filter_sort"/>
+    <Choice value="filter_option"/>
+    <Choice value="help"/>
+    <Choice value="to_signin"/>
+    <Choice value="to_signup"/>
+    <Choice value="item_i"/>
+    <Choice value="legal"/>
+    <Choice value="menu"/>
+    <Choice value="account"/>
+    <Choice value="menu_more"/>
+    <Choice value="menu_settings"/>
+    <Choice value="minus"/>
+    <Choice value="perms_allow"/>
+    <Choice value="search"/>
+    <Choice value="search_bar"/>
+    <Choice value="sign_in"/>
+    <Choice value="sign_up"/>
+    <Choice value="continue"/>
+    <Choice value="email"/>
+    <Choice value="confirm_email"/>
+    <Choice value="forget_pwd"/>
+    <Choice value="password"/>
+    <Choice value="to_signin_or_signup"/>
+    <Choice value="username"/>
+    <Choice value="business_account"/>
+    <Choice value="confirm_password"/>
+    <Choice value="firstname"/>
+    <Choice value="lastname"/>
+    <Choice value="fullname"/>
+    <Choice value="personal_account"/>
+    <Choice value="skip"/>
+    <Choice value="to_home"/>
+    <Choice value="to_search"/>
+    <Choice value="by_email"/>
+    <Choice value="save_bookmark"/>
+    <Choice value="remove_bookmark"/>
+    <Choice value="bookmark"/>
+    <Choice value="textsize"/>
+    <Choice value="change_textsize"/>
+    <Choice value="keep_signin"/>
+    <Choice value="multi_form"/>
+    <Choice value="by_amazon"/>
+    <Choice value="by_google"/>
+    <Choice value="pick_google_account"/>
+    <Choice value="captcha_input"/>
+    <Choice value="by_facebook"/>
+    <Choice value="buy"/>
+    <Choice value="show"/>
+    <Choice value="male"/>
+    <Choice value="female"/>
+    <Choice value="non_binary"/>
+    <Choice value="filter_location"/>
+    <Choice value="promo_checkbox"/>
+    <Choice value="promo"/>
+    <Choice value="popular"/>
+    <Choice value="shipped"/>
+    <Choice value="interests"/>
+    <Choice value="deny"/>
+    <Choice value="alert"/>
+    <Choice value="item_option"/>
+    <Choice value="address"/>
+  </Choices>
+</View>

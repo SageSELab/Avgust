@@ -1,0 +1,12 @@
+[
+{
+   "data": {
+   "screen": "http://localhost:8081/bbox-0084-screen.jpg",
+   "widget": "http://localhost:8081/bbox-0084-widget.jpg"}
+},
+{
+   "data": {
+   "screen": "http://localhost:8081/bbox-0189-screen.jpg",
+   "widget": "http://localhost:8081/bbox-0189-widget.jpg"}
+}
+]
