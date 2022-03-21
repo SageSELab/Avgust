@@ -1,0 +1,11 @@
+x
+ty
+remove
+this
+item
+from
+cart?
+remove
+save
+to
+wishlist

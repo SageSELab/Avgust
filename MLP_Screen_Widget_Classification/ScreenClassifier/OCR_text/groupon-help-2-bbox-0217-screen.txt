@@ -1,0 +1,15 @@
+m
+@
+ur
+a
+i
+10:43
+allow
+groupon
+to
+access
+this
+device's
+location?
+deny
+allow

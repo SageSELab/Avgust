@@ -1,0 +1,10 @@
+select
+color
+nal
+dark
+blue
+gold
+ur
+ar
+@
+11:25

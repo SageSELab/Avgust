@@ -1,0 +1,13 @@
+<<
+refine
+boots
+hiking
+boots
+rain
+boots
+short
+boots
+tall
+boots
+winter
+boots

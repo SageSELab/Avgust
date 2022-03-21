@@ -1,0 +1,10 @@
+tt
+ff
+10:01
+allow
+groupon
+to
+access
+this
+device's
+location?

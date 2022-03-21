@@ -1,0 +1,13 @@
+a
+a
+tts
+bf
+10:29
+allow
+groupon
+to
+access
+this
+device's
+location?
+deny

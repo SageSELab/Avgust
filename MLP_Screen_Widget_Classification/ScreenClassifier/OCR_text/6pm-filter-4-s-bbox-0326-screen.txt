@@ -1,0 +1,13 @@
+ou
+yolo
+product
+type
+gender
+brand
+pu
+price
+57
+color
+ol
+31
+done

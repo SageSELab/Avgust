@@ -1,0 +1,14 @@
+on
+wee
+8
+11:25
+in
+select
+color
+x
+black
+29;936:79
+blue
+29;936:79
+green
+29,936.79

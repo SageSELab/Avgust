@@ -1,0 +1,13 @@
+sign
+in
+email
+or
+username
+password
+forgot
+password?
+don't
+have
+an
+account?
+register

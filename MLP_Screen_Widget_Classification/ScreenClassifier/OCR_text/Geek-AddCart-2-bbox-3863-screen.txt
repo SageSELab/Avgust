@@ -1,0 +1,9 @@
+select
+color
+black
+blue
+green
+pink
+purple
+in
+10:47

@@ -1,0 +1,4 @@
+selling
+deals
+categories
+saved

@@ -1,0 +1,16 @@
+select
+size
+iphone
+7/8
+iphone
+7/8
+plus
+iphone
+xr
+iphone
+x/xr
+iphone
+xs
+max
+in
+10:47

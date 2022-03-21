@@ -1,0 +1,9 @@
+product
+type
+gender
+brand
+fre
+price
+43
+color
+done

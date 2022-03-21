@@ -1,0 +1,10 @@
+delete
+are
+you
+sure
+you
+want
+to
+delete
+this
+item?

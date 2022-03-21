@@ -1,0 +1,8 @@
+departments
+account
+favorites
+customer
+service
+settings
+&
+information

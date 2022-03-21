@@ -1,0 +1,14 @@
+q.
+boat
+shoes
+gender
+brand
+price
+ne
+color
+occasion
+features
+styles
+materials
+sp
+done

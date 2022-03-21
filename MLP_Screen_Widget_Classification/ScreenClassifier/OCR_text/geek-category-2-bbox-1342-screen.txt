@@ -1,0 +1,8 @@
+search
+history
+speaker
+browser
+recently
+viewed
+view
+all

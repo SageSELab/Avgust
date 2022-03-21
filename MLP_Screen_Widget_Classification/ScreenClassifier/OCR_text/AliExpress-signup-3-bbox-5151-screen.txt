@@ -1,0 +1,13 @@
+please
+enter
+a
+password
+between
+6-20
+characters
+long
+(numbers
+and
+letters
+only).
+ok

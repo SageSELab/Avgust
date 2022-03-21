@@ -1,0 +1,10 @@
+allow
+news
+break
+to
+access
+this
+device's
+location?
+deny
+allow

@@ -1,0 +1,63 @@
+---------------------------
+fox
+Accuracy of MLPClassifier :  0.2222222222222222
+---------------------------
+dailyhunt
+Accuracy of MLPClassifier :  0.2222222222222222
+---------------------------
+AliExpress
+Accuracy of MLPClassifier :  0.42105263157894735
+---------------------------
+groupon
+Accuracy of MLPClassifier :  0.34527687296416937
+---------------------------
+geek
+Accuracy of MLPClassifier :  0.6323529411764706
+---------------------------
+etsy
+Accuracy of MLPClassifier :  0.3780487804878049
+---------------------------
+Geek
+Accuracy of MLPClassifier :  0.45901639344262296
+---------------------------
+6pm
+Accuracy of MLPClassifier :  0.2857142857142857
+---------------------------
+reuters
+Accuracy of MLPClassifier :  0.20833333333333334
+---------------------------
+wish
+Accuracy of MLPClassifier :  0.5991561181434599
+---------------------------
+usatoday
+Accuracy of MLPClassifier :  0.4025157232704403
+---------------------------
+guardian
+Accuracy of MLPClassifier :  0.375
+---------------------------
+buzzfeed
+Accuracy of MLPClassifier :  0.32142857142857145
+---------------------------
+zappos
+Accuracy of MLPClassifier :  0.37681159420289856
+---------------------------
+home
+Accuracy of MLPClassifier :  0.5531914893617021
+---------------------------
+aliexpress
+Accuracy of MLPClassifier :  0.3253012048192771
+---------------------------
+abc
+Accuracy of MLPClassifier :  0.10666666666666667
+---------------------------
+ebay
+Accuracy of MLPClassifier :  0.4126984126984127
+---------------------------
+newsbreak
+Accuracy of MLPClassifier :  0.3333333333333333
+---------------------------
+bbc
+Accuracy of MLPClassifier :  0.17647058823529413
+---------------------------
+6PM
+Accuracy of MLPClassifier :  0.3333333333333333

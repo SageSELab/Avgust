@@ -1,0 +1,13 @@
+allow
+android
+keyboard
+(aosp)
+to
+access
+your
+contacts?
+deny
+allow
+"4
+b
+4:20

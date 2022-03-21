@@ -1,0 +1,17 @@
+browse
+earn
+$100
+search
+notifications
+shopping
+cart
+order
+history
+wish
+cash
+rewards:
+daily
+login
+bonus
+apply
+promo

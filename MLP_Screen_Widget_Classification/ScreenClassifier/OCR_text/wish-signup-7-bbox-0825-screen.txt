@@ -1,0 +1,6 @@
+mobile
+number
+or
+email
+facebook
+password

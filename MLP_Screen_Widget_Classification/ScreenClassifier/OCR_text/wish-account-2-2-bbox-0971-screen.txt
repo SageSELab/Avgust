@@ -1,0 +1,13 @@
+(allow
+wish
+to
+take
+pictures
+and
+record
+video?
+deny
+allow
+tee
+8
+7:35

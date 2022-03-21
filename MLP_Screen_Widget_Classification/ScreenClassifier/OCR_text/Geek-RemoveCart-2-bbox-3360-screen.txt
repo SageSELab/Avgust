@@ -1,0 +1,12 @@
+select
+size
+au(2+32gb)
+eu(12+512gb)
+uk(12+512gb)
+us(12+512gb)
+au(12+512gb)
+i
+an
++
+ia
+by)

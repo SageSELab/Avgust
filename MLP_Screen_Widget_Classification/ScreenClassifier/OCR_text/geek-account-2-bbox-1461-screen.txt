@@ -1,0 +1,13 @@
+€
+account
+settings
+country/region
+update
+profile
+change
+email
+address
+change
+password
+delete
+account

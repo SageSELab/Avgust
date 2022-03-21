@@ -1,0 +1,16 @@
+valid
+18
+dec
+-
+21.
+max
+discount
+%
+7,353.
+hey
+joe,
+it's
+the
+super
+saturday
+sale.

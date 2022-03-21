@@ -1,0 +1,9 @@
+q.
+sunglasses
+product
+type
+gender
+brand
+price
+color
+done
