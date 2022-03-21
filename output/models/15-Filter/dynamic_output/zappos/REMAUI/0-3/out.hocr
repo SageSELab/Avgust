@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/15-filter/dynamic_output/zappos/screenshots/0-3.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 24 12 290 51">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 24 12 290 51">
+     <span class='ocr_line' id='line_1_1' title="bbox 24 12 290 51; baseline 0.008 -5; x_size 42.400002; x_descenders 5.4000001; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 24 19 106 46; x_wconf 84'>11:01</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 141 12 180 51; x_wconf 84'>@</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 204 14 234 49; x_wconf 71'>0</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 264 16 290 48; x_wconf 91'>@</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 89 421 189">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 191 89 421 189">
+     <span class='ocr_caption' id='line_1_2' title="bbox 191 89 328 130; baseline 0 0; x_size 46.47718; x_descenders 5.4771786; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_5' title='bbox 191 89 328 130; x_wconf 96'>shoes</span>
+     </span>
+     <span class='ocr_caption' id='line_1_3' title="bbox 191 159 421 189; baseline 0 0; x_size 34.016598; x_descenders 4.0165977; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_6' title='bbox 191 159 307 189; x_wconf 95'>72315</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 322 159 421 189; x_wconf 94'>items</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1080 214">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 0 0 1080 214">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1080 214; baseline 0 1706; x_size 268.75; x_descenders 67.1875; x_ascenders 67.1875">
+      <span class='ocrx_word' id='word_1_8' title='bbox 0 0 1080 214; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 31 518 1014 698">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 31 518 1017 688">
+     <span class='ocr_line' id='line_1_5' title="bbox 31 518 1014 577; baseline 0 -15; x_size 30.931034; x_descenders 4.9310346; x_ascenders 7.6206899">
+      <span class='ocrx_word' id='word_1_9' title='bbox 31 528 90 567; x_wconf 89'>=</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 115 531 215 571; x_wconf 96'>SORT</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 615 518 674 577; x_wconf 33'>7</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 700 536 824 562; x_wconf 96'>FILTER</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 914 532 1014 559; x_wconf 96'>DONE</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 43 656 698 698; baseline 0 -10; x_size 33.365852; x_descenders 5.3658538; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_14' title='bbox 43 656 143 698; x_wconf 96'>Shoes</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 243 660 354 688; x_wconf 96'>Closed</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 367 662 425 688; x_wconf 96'>Toe</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 525 660 626 688; x_wconf 96'>Round</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 639 662 698 688; x_wconf 96'>Toe</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 581 787 1023 824">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 581 787 1023 824">
+     <span class='ocr_line' id='line_1_7' title="bbox 581 787 1023 824; baseline 0 -5; x_size 37; x_descenders 5; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_19' title='bbox 581 791 670 819; x_wconf 96'>Show</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 681 791 754 819; x_wconf 92'>filter</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 766 791 856 819; x_wconf 92'>result</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 868 795 957 819; x_wconf 66'>count</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1013 787 1023 824; x_wconf 41'>—)</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 23 911 1042 1336">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 23 911 1042 1077">
+     <span class='ocr_line' id='line_1_8' title="bbox 23 911 1042 961; baseline 0 -14; x_size 41.548748; x_descenders 9.548749; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_24' title='bbox 23 911 157 961; x_wconf 96'>Gender</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1011 920 1042 939; x_wconf 83'>a</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 53 1037 660 1081; baseline 0 -12; x_size 36; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_26' title='bbox 53 1037 174 1081; x_wconf 96'>Women</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 266 1037 333 1081; x_wconf 96'>Men</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 409 1037 494 1081; x_wconf 96'>Girls</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 584 1043 660 1077; x_wconf 96'>Boys</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 24 1170 1042 1332">
+     <span class='ocr_line' id='line_1_10' title="bbox 24 1170 1042 1211; baseline 0 -9; x_size 41; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_30' title='bbox 24 1170 169 1202; x_wconf 96'>Product</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 183 1172 272 1211; x_wconf 96'>Type</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1011 1175 1042 1194; x_wconf 90'>a</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 53 1292 1012 1336; baseline 0 -12; x_size 36; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_33' title='bbox 53 1292 152 1336; x_wconf 96'>Shoes</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 230 1292 377 1336; x_wconf 96'>Clothing</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 465 1292 667 1336; x_wconf 95'>Accessories</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 755 1297 893 1332; x_wconf 96'>Sporting</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 907 1296 1012 1324; x_wconf 96'>Goods</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 55 1418 915 1462">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 55 1418 915 1462">
+     <span class='ocr_line' id='line_1_12' title="bbox 55 1418 915 1462; baseline 0 -12; x_size 36; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_38' title='bbox 55 1418 133 1462; x_wconf 96'>Bags</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 223 1424 274 1450; x_wconf 96'>Pet</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 287 1422 369 1458; x_wconf 96'>Shop</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 457 1418 552 1462; x_wconf 96'>Home</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 640 1424 715 1458; x_wconf 95'>Toys</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 730 1422 787 1450; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 801 1423 915 1450; x_wconf 96'>Games</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 53 1548 179 1584">
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 53 1548 179 1584">
+     <span class='ocr_line' id='line_1_13' title="bbox 53 1548 179 1584; baseline 0 -8; x_size 36; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_45' title='bbox 53 1548 179 1584; x_wconf 96'>Jewelry</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 24 1673 1044 1719">
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 24 1673 1044 1719">
+     <span class='ocr_line' id='line_1_14' title="bbox 24 1673 1044 1719; baseline 0 -10; x_size 37.38298; x_descenders 5.3829789; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_46' title='bbox 24 1673 128 1719; x_wconf 96'>Brand</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1020 1673 1032 1719; x_wconf 68'>Vv</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

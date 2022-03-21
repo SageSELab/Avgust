@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/13-removecart/dynamic_output/aliexpress/screenshots/0-9.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 63 5 1057 61">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 25 5 1057 61">
+     <span class='ocr_line' id='line_1_1' title="bbox 63 5 1057 61; baseline -0.006 -9.221; x_size 48.400002; x_descenders 5.4000001; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_1' title='bbox 63 5 251 61; x_wconf 0'>Remit)</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 856 14 886 49; x_wconf 20'>Ue</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 922 12 1057 49; x_wconf 27'>aK)</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 769 322 808">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 137 769 322 808">
+     <span class='ocr_line' id='line_1_2' title="bbox 137 769 322 808; baseline 0.005 -1; x_size 43.409836; x_descenders 5.4098358; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_4' title='bbox 137 769 322 808; x_wconf 96'>Remove</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 134 878 920 918">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 134 878 920 918">
+     <span class='ocr_caption' id='line_1_3' title="bbox 134 878 920 918; baseline 0 -9; x_size 43.25; x_descenders 9.5; x_ascenders 11.25">
+      <span class='ocrx_word' id='word_1_5' title='bbox 134 879 195 909; x_wconf 96'>Are</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 207 887 270 918; x_wconf 96'>you</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 285 887 363 909; x_wconf 96'>sure</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 375 887 438 918; x_wconf 95'>you</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 452 882 541 909; x_wconf 95'>want</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 553 882 588 909; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 603 887 738 909; x_wconf 96'>remove</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 749 878 807 909; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 821 879 920 909; x_wconf 96'>items</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 135 937 309 968">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 135 937 309 968">
+     <span class='ocr_line' id='line_1_4' title="bbox 135 937 309 968; baseline 0 0; x_size 36.377777; x_descenders 5.3777776; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_14' title='bbox 135 937 309 968; x_wconf 95'>selected?</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 66 684 1014 1174">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 66 684 1014 1174">
+     <span class='ocr_line' id='line_1_5' title="bbox 66 684 1014 1174; baseline 0 746; x_size 204; x_descenders 51; x_ascenders 51">
+      <span class='ocrx_word' id='word_1_15' title='bbox 66 684 1014 1174; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

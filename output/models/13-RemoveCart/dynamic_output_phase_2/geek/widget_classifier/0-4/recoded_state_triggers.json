@@ -1,0 +1,1 @@
+{"screen": "cart", "triggers": ["remove#click", "continue#click", "quantity#click", "continue#long", "menu#click"]}

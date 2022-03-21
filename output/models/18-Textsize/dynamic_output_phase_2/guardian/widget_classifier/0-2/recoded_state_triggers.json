@@ -1,0 +1,1 @@
+{"screen": "item_detail", "triggers": ["menu_more#click", "textsize#click", "change_textsize#click", "back#click"]}

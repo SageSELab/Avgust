@@ -1,0 +1,1 @@
+{"screen": "sign_in", "triggers": ["sign_in#click", "password#click", "email#click", "sign_in#long"]}

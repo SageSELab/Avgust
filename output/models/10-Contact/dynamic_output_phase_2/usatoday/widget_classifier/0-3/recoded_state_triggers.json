@@ -1,0 +1,1 @@
+{"screen": "home", "triggers": ["menu#click", "account#click", "item_i#click", "popup#click"]}

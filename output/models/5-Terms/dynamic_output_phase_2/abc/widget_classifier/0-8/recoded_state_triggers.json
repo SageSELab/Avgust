@@ -1,0 +1,1 @@
+{"screen": "menu", "triggers": ["help#click", "menu_settings#click", "menu_settings#long"]}

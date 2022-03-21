@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+android:background="#FFC7BABA">
+
+
+    <RelativeLayout
+        android:background="#FF444444"
+        android:layout_marginLeft="818px"
+        android:layout_marginTop="1831px"
+        android:layout_width="52px"
+        android:layout_height="52px">
+
+        <ImageView
+            android:src="@drawable/img_831_1844_26_26"
+            android:layout_marginLeft="13px"
+            android:layout_marginTop="13px"
+            android:layout_width="26px"
+            android:layout_height="26px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FF343434"
+        android:layout_marginLeft="511px"
+        android:layout_marginTop="1828px"
+        android:layout_width="58px"
+        android:layout_height="58px">
+
+        <ImageView
+            android:src="@drawable/img_525_1842_30_30"
+            android:layout_marginLeft="14px"
+            android:layout_marginTop="14px"
+            android:layout_width="30px"
+            android:layout_height="30px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FF343434"
+        android:layout_marginLeft="211px"
+        android:layout_marginTop="1828px"
+        android:layout_width="51px"
+        android:layout_height="58px">
+
+        <ImageView
+            android:src="@drawable/img_233_1848_15_18"
+            android:layout_marginLeft="22px"
+            android:layout_marginTop="20px"
+            android:layout_width="15px"
+            android:layout_height="18px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_0_1789_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="1789px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <ImageView
+        android:src="@drawable/img_449_1710_183_36"
+        android:layout_marginLeft="449px"
+        android:layout_marginTop="1710px"
+        android:layout_width="183px"
+        android:layout_height="36px"/>
+
+    <RelativeLayout
+        android:background="#FFFCE9E9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="1626px"
+        android:layout_width="1080px"
+        android:layout_height="38px">
+
+        <ImageView
+            android:src="@drawable/img_474_1637_382_19"
+            android:layout_marginLeft="474px"
+            android:layout_marginTop="11px"
+            android:layout_width="382px"
+            android:layout_height="19px"/>
+
+        <ImageView
+            android:src="@drawable/img_48_1637_382_19"
+            android:layout_marginLeft="48px"
+            android:layout_marginTop="11px"
+            android:layout_width="382px"
+            android:layout_height="19px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEEEEEE"
+        android:layout_marginLeft="397px"
+        android:layout_marginTop="1489px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_408_1500_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEEEEEE"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="1489px"
+        android:layout_width="338px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_48_1500_316_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="316px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEFEFEF"
+        android:layout_marginLeft="481px"
+        android:layout_marginTop="1352px"
+        android:layout_width="413px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_492_1363_391_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="391px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_37_1352_422_105"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="1352px"
+        android:layout_width="422px"
+        android:layout_height="105px"/>
+
+    <RelativeLayout
+        android:background="#FFEDEDED"
+        android:layout_marginLeft="481px"
+        android:layout_marginTop="1215px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_492_1226_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEDEDED"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="1215px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_48_1226_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEEEEEE"
+        android:layout_marginLeft="481px"
+        android:layout_marginTop="1078px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_492_1089_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEDEDED"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="1078px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_48_1089_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEEEEEE"
+        android:layout_marginLeft="481px"
+        android:layout_marginTop="941px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_492_952_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEEEEEE"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="941px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_48_952_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEEEEEE"
+        android:layout_marginLeft="481px"
+        android:layout_marginTop="804px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_492_815_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEDEDED"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="804px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_48_815_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEEEEEE"
+        android:layout_marginLeft="481px"
+        android:layout_marginTop="667px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_492_678_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#FFEEEEEE"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="667px"
+        android:layout_width="422px"
+        android:layout_height="105px">
+
+        <ImageView
+            android:src="@drawable/img_48_678_400_83"
+            android:layout_marginLeft="11px"
+            android:layout_marginTop="11px"
+            android:layout_width="400px"
+            android:layout_height="83px"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:src="@drawable/img_320_432_102_46"
+        android:layout_marginLeft="320px"
+        android:layout_marginTop="432px"
+        android:layout_width="102px"
+        android:layout_height="46px"/>
+
+    <ImageView
+        android:src="@drawable/img_37_247_261_262"
+        android:layout_marginLeft="37px"
+        android:layout_marginTop="247px"
+        android:layout_width="261px"
+        android:layout_height="262px"/>
+
+    <ImageView
+        android:src="@drawable/img_0_206_1080_9"
+        android:layout_marginLeft="0px"
+        android:layout_marginTop="206px"
+        android:layout_width="1080px"
+        android:layout_height="9px"/>
+
+    <ImageView
+        android:src="@drawable/img_157_115_171_45"
+        android:layout_marginLeft="157px"
+        android:layout_marginTop="115px"
+        android:layout_width="171px"
+        android:layout_height="45px"/>
+
+    <ImageView
+        android:src="@drawable/img_47_112_51_49"
+        android:layout_marginLeft="47px"
+        android:layout_marginTop="112px"
+        android:layout_width="51px"
+        android:layout_height="49px"/>
+
+    <ImageView
+        android:src="@drawable/img_984_15_77_36"
+        android:layout_marginLeft="984px"
+        android:layout_marginTop="15px"
+        android:layout_width="77px"
+        android:layout_height="36px"/>
+
+    <ImageView
+        android:src="@drawable/img_872_9_54_45"
+        android:layout_marginLeft="872px"
+        android:layout_marginTop="9px"
+        android:layout_width="54px"
+        android:layout_height="45px"/>
+
+    <ImageView
+        android:src="@drawable/img_827_9_34_45"
+        android:layout_marginLeft="827px"
+        android:layout_marginTop="9px"
+        android:layout_width="34px"
+        android:layout_height="45px"/>
+
+    <ImageView
+        android:src="@drawable/img_939_8_32_46"
+        android:layout_marginLeft="939px"
+        android:layout_marginTop="8px"
+        android:layout_width="32px"
+        android:layout_height="46px"/>
+
+    <RelativeLayout
+        android:background="#FF868686"
+        android:layout_marginLeft="28px"
+        android:layout_marginTop="8px"
+        android:layout_width="39px"
+        android:layout_height="47px">
+
+        <ImageView
+            android:src="@drawable/img_36_25_23_22"
+            android:layout_marginLeft="8px"
+            android:layout_marginTop="17px"
+            android:layout_width="23px"
+            android:layout_height="22px"/>
+    </RelativeLayout>
+
+    <TextView
+        android:text="Option"
+        android:textColor="#FFD9D9D9"
+        android:textSize="39px"        android:layout_marginLeft="339px"
+        android:layout_marginTop="121px"
+        android:layout_width="134px"
+        android:layout_height="44px"/>
+
+    <TextView
+        android:text="BEAUDIVA Brazilian Hair Body Wave 3"
+        android:textColor="#FF000000"
+        android:textSize="31px"        android:layout_marginLeft="318px"
+        android:layout_marginTop="289px"
+        android:layout_width="614px"
+        android:layout_height="36px"/>
+
+    <TextView
+        android:text="Bundles With Closure Human Hair Bundles..."
+        android:textColor="#FF000000"
+        android:textSize="23px"        android:layout_marginLeft="318px"
+        android:layout_marginTop="331px"
+        android:layout_width="714px"
+        android:layout_height="28px"/>
+
+    <TextView
+        android:text="US $44.00 - 192.86 lot"
+        android:textColor="#FF000000"
+        android:textSize="35px"        android:layout_marginLeft="317px"
+        android:layout_marginTop="391px"
+        android:layout_width="438px"
+        android:layout_height="40px"/>
+
+    <TextView
+        android:text="US $42.90 - 188.03"
+        android:textColor="#FF000000"
+        android:textSize="25px"        android:layout_marginLeft="441px"
+        android:layout_marginTop="448px"
+        android:layout_width="269px"
+        android:layout_height="30px"/>
+
+    <TextView
+        android:text="Stretched Length: Please Select"
+        android:textColor="#FF000000"
+        android:textSize="36px"        android:layout_marginLeft="44px"
+        android:layout_marginTop="593px"
+        android:layout_width="587px"
+        android:layout_height="41px"/>
+</RelativeLayout>

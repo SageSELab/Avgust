@@ -1,0 +1,1 @@
+{"screen": "get_started", "triggers": ["to_signin_or_signup#click", "bypass#click", "continue#click"]}

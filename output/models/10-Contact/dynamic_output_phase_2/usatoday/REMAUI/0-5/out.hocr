@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/saghar/Documents/dev/Final-Artifacts/output/models/10-Contact/dynamic_output_phase_2/usatoday/screenshots/0-5.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1080 67">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 0 0 1080 67">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1080 67; baseline 0 1853; x_size 85; x_descenders 21.25; x_ascenders 21.25">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 0 1080 67; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 430 103 1045 172">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 430 103 1045 172">
+     <span class='ocr_caption' id='line_1_2' title="bbox 430 103 1045 172; baseline -0.005 -17; x_size 61; x_descenders 13; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_2' title='bbox 430 103 651 172; x_wconf 96'>Sections</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 860 106 919 165; x_wconf 75'>for</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 985 104 1045 165; x_wconf 90'>Q</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 80 256 748 322">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 80 256 748 322">
+     <span class='ocr_line' id='line_1_3' title="bbox 82 256 322 279; baseline 0 0; x_size 29.128485; x_descenders 6.1284852; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_5' title='bbox 82 257 184 279; x_wconf 96'>Recent</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 195 256 322 279; x_wconf 95'>Sections</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 80 293 748 322; baseline 0 -6; x_size 29; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_7' title='bbox 80 294 146 316; x_wconf 96'>Your</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 159 296 254 316; x_wconf 96'>recent</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 264 293 363 316; x_wconf 96'>visited</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 375 293 499 316; x_wconf 96'>sections</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 510 293 555 316; x_wconf 96'>will</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 568 293 671 322; x_wconf 96'>display</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 683 293 748 316; x_wconf 96'>here</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 66 428 818 1617">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 80 428 224 453">
+     <span class='ocr_line' id='line_1_5' title="bbox 80 428 224 453; baseline 0 0; x_size 32.343819; x_descenders 7.3438187; x_ascenders 8.1524153">
+      <span class='ocrx_word' id='word_1_14' title='bbox 80 428 224 453; x_wconf 96'>SPORTS</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 82 529 807 1035">
+     <span class='ocr_line' id='line_1_6' title="bbox 82 529 742 570; baseline 0 -12; x_size 32.343819; x_descenders 7.3438187; x_ascenders 8.1524153">
+      <span class='ocrx_word' id='word_1_15' title='bbox 82 529 143 570; x_wconf 95'>NFL</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 622 533 742 558; x_wconf 91'>NCAAF</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 82 636 731 664; baseline 0 0; x_size 36.282051; x_descenders 8.2820511; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_17' title='bbox 82 639 155 664; x_wconf 96'>NBA</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 620 636 731 664; x_wconf 96'>Tennis</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 82 743 746 777; baseline 0 -7; x_size 34; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_19' title='bbox 82 745 154 770; x_wconf 96'>MLB</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 622 743 746 777; x_wconf 91'>Indycar</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 82 845 807 889; baseline 0.001 -13; x_size 36.282051; x_descenders 8.2820511; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_21' title='bbox 82 845 151 889; x_wconf 95'>NHL</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 620 849 706 877; x_wconf 96'>View</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 719 852 807 877; x_wconf 96'>More</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 82 1010 396 1035; baseline 0 0; x_size 32.343819; x_descenders 7.3438187; x_ascenders 8.1524153">
+      <span class='ocrx_word' id='word_1_24' title='bbox 82 1010 396 1035; x_wconf 95'>ENTERTAINMENT</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 81 1108 725 1153">
+     <span class='ocr_line' id='line_1_11' title="bbox 81 1108 725 1153; baseline 0 -13; x_size 36.282051; x_descenders 8.2820511; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_25' title='bbox 81 1108 268 1153; x_wconf 96'>Celebrities</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 622 1113 725 1140; x_wconf 96'>Books</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 80 1218 818 1617">
+     <span class='ocr_line' id='line_1_12' title="bbox 80 1218 816 1253; baseline 0 -7; x_size 35; x_descenders 7; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_27' title='bbox 80 1221 126 1246; x_wconf 96'>TV</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 620 1221 684 1253; x_wconf 96'>Top</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 696 1218 816 1246; x_wconf 96'>Videos</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 82 1320 818 1363; baseline 0 -11; x_size 35; x_descenders 7; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_30' title='bbox 82 1320 203 1363; x_wconf 96'>Movies</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 620 1327 684 1359; x_wconf 96'>Top</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 698 1325 818 1352; x_wconf 95'>Photos</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 66 1426 807 1471; baseline 0.001 -13.022; x_size 36.282051; x_descenders 8.2820511; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_33' title='bbox 66 1426 179 1471; x_wconf 96'>Music</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 620 1431 706 1459; x_wconf 96'>View</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 719 1434 807 1459; x_wconf 96'>More</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 82 1592 155 1617; baseline 0 0; x_size 32.343819; x_descenders 7.3438187; x_ascenders 8.1524153">
+      <span class='ocrx_word' id='word_1_36' title='bbox 82 1592 155 1617; x_wconf 95'>LIFE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 479 1745 600 1768">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 479 1745 600 1768">
+     <span class='ocr_line' id='line_1_16' title="bbox 479 1745 600 1768; baseline 0 0; x_size 28.342857; x_descenders 5.3428574; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_37' title='bbox 479 1745 600 1768; x_wconf 96'>Sections</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

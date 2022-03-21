@@ -1,0 +1,1 @@
+{"0-0": {"true_screen_IR": "home", "true_widget_IR": "menu"}, "0-1": {"true_screen_IR": "menu", "true_widget_IR": "account"}, "usage_states": ["sign_up", "sign_in", "setting", "menu", "account", "popup", "get_started", "signin_or_signup", "help", "end", "home", "start"], "true_label_time": 244.44225192070007}

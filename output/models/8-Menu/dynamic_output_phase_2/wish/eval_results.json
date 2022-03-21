@@ -1,0 +1,1 @@
+{"0-0": {"true_screen_IR": "sign_in"}, "0-0-1": {"true_widget_IR": "email"}, "0-0-2": {"true_widget_IR": "password"}, "0-0-3": {"true_widget_IR": "sign_in"}, "0-1": {"true_screen_IR": "home", "true_widget_IR": "menu"}, "usage_states": ["signin_google_popup", "sign_in", "popup", "get_started", "signin_or_signup", "end", "home", "start"], "true_label_time": 225.770427942276}

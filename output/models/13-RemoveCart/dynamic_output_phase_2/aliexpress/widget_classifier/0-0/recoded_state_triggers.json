@@ -1,0 +1,1 @@
+{"screen": "home", "triggers": ["cart#long", "search_bar#click", "cart#click", "item_i#click", "to_search#click", "bookmark#click"]}

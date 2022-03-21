@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/12-addcart/dynamic_output/geek/screenshots/0-10.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 332 1080 1349">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 0 332 1080 1349">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 332 1080 1349; baseline 0 0; x_size 508.5; x_descenders -254.25; x_ascenders 254.25">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 332 1080 1349; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 45 1424 1015 1523">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 45 1424 1015 1523">
+     <span class='ocr_line' id='line_1_2' title="bbox 46 1424 972 1459; baseline 0 0; x_size 43.890373; x_descenders 8.8903751; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_2' title='bbox 46 1424 204 1459; x_wconf 96'>Fashion</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 223 1424 428 1459; x_wconf 95'>Multicolor</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 443 1426 598 1459; x_wconf 96'>Women</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 616 1424 705 1459; x_wconf 96'>Girls</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 721 1424 831 1459; x_wconf 96'>Short</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 846 1424 972 1459; x_wconf 96'>Wallet</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 45 1479 1015 1523; baseline 0 -9; x_size 44; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_8' title='bbox 45 1480 134 1514; x_wconf 96'>Coin</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 153 1481 268 1514; x_wconf 96'>Purse</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 285 1480 482 1523; x_wconf 96'>Organizer</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 499 1479 640 1514; x_wconf 96'>Pocket</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 655 1479 767 1514; x_wconf 96'>Small</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 785 1479 906 1514; x_wconf 96'>Credit</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 922 1479 1015 1514; x_wconf 96'>Card</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 36 1567 193 1594">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 36 1567 193 1594">
+     <span class='ocr_line' id='line_1_4' title="bbox 36 1567 193 1594; baseline 0 0; x_size 36; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_15' title='bbox 36 1567 193 1594; x_wconf 0'>0\180\5</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1632 1080 1920">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 0 1632 1080 1920">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 1632 1080 1920; baseline 0 0; x_size 385.33334; x_descenders 96.333336; x_ascenders 96.333336">
+      <span class='ocrx_word' id='word_1_16' title='bbox 0 1632 1080 1920; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

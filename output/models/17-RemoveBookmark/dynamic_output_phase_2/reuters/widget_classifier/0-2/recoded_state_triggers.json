@@ -1,0 +1,1 @@
+{"screen": "item_detail", "triggers": ["remove_bookmark#click", "save_bookmark#click", "back#click", "bookmark#click", "menu_more#click"]}

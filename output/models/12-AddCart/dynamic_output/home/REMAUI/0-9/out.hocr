@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/12-addcart/dynamic_output/home/screenshots/0-9.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 327 419 754 451">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 327 419 754 451">
+     <span class='ocr_line' id='line_1_1' title="bbox 327 419 754 451; baseline -0.002 0; x_size 36.38298; x_descenders 5.3829789; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 327 420 458 451; x_wconf 96'>Create</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 471 428 491 451; x_wconf 96'>a</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 508 428 588 451; x_wconf 96'>new</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 599 419 754 451; x_wconf 96'>Wishlist</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 145 709 372 745">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 145 709 372 745">
+     <span class='ocr_caption' id='line_1_2' title="bbox 145 709 372 745; baseline 0 -7; x_size 36; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_5' title='bbox 145 709 372 745; x_wconf 96'>Suggestions:</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1080 1920">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 0 0 1080 1920">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1080 1920; baseline 0 0; x_size 960; x_descenders -480; x_ascenders 480">
+      <span class='ocrx_word' id='word_1_6' title='bbox 0 0 1080 1920; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

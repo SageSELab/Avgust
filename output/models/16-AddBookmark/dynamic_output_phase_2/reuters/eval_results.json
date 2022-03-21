@@ -1,0 +1,1 @@
+{"0-0": {"true_screen_IR": "popup", "true_widget_IR": "apply"}, "0-1": {"true_screen_IR": "home", "true_widget_IR": "item_i"}, "0-2": {"true_screen_IR": "item_detail", "true_widget_IR": "save_bookmark"}, "usage_states": ["search", "menu", "items", "popup", "get_started", "signin_or_signup", "end", "home", "start", "item_detail", "category"], "true_label_time": 494.7688329219818}

@@ -1,0 +1,1 @@
+{"screen": "home", "triggers": ["search_bar#click", "menu#click", "menu_settings#click", "menu_more#click", "bookmark#click"]}

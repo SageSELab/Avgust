@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/saghar/Documents/dev/Final-Artifacts/output/models/17-RemoveBookmark/dynamic_output_phase_2/reuters/screenshots/0-0.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 22 12 1059 51">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 22 12 1059 51">
+     <span class='ocr_line' id='line_1_1' title="bbox 22 12 1059 51; baseline 0.002 -5; x_size 40.400002; x_descenders 5.4000001; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 22 19 92 46; x_wconf 80'>424</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 124 15 156 48; x_wconf 67'>2</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 178 12 377 51; x_wconf 25'>Q@MG-:</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 945 14 965 46; x_wconf 18'>.</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 988 14 1059 48; x_wconf 28'>in</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1037 8 1061 56; x_wconf 76'>|</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 66 702 1014 1154">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 66 702 1014 1154">
+     <span class='ocr_line' id='line_1_2' title="bbox 66 702 1014 1154; baseline 0 766; x_size 188; x_descenders 47; x_ascenders 47">
+      <span class='ocrx_word' id='word_1_7' title='bbox 66 702 1014 1154; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

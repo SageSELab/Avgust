@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/12-addcart/dynamic_output/home/screenshots/0-8.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 633 717 665">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 365 633 717 665">
+     <span class='ocr_caption' id='line_1_1' title="bbox 365 633 717 665; baseline -0.003 0; x_size 37.38298; x_descenders 5.3829789; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 365 634 514 665; x_wconf 95'>Choose</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 527 642 547 665; x_wconf 96'>a</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 561 633 717 665; x_wconf 96'>Wishlist</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 257 890 823 965">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 257 890 823 965">
+     <span class='ocr_line' id='line_1_2' title="bbox 257 890 823 921; baseline 0.002 -5; x_size 32.401077; x_descenders 5.4010792; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_4' title='bbox 257 890 316 917; x_wconf 96'>You</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 331 890 410 917; x_wconf 95'>have</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 425 896 464 917; x_wconf 95'>no</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 476 890 630 921; x_wconf 95'>Wishlists,</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 644 892 748 917; x_wconf 96'>create</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 762 896 823 917; x_wconf 96'>one</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 503 938 579 965; baseline 0.013 -1; x_size 32.143887; x_descenders 5.1438851; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_10' title='bbox 503 938 579 965; x_wconf 96'>now!</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 398 1038 690 1068">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 398 1038 690 1068">
+     <span class='ocr_line' id='line_1_4' title="bbox 398 1038 690 1068; baseline 0.003 -1; x_size 34.377777; x_descenders 5.3777776; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_11' title='bbox 398 1038 423 1062; x_wconf 96'>+</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 448 1038 533 1068; x_wconf 96'>New</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 545 1038 690 1068; x_wconf 96'>Wishlist</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 76 516 1004 1276">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 76 516 1004 1276">
+     <span class='ocr_line' id='line_1_5' title="bbox 76 516 1004 1276; baseline 0 644; x_size 249.33333; x_descenders 62.333332; x_ascenders 62.333336">
+      <span class='ocrx_word' id='word_1_14' title='bbox 76 516 1004 1276; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

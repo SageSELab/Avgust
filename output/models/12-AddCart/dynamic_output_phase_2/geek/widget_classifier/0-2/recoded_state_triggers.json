@@ -1,0 +1,1 @@
+{"screen": "home", "triggers": ["search_bar#long", "search_bar#click", "to_search#click", "category#click", "filter_option#click"]}

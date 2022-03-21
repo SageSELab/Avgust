@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/yixue/Documents/Research/UsageTesting/Final-Artifacts/output/models/5-Terms/dynamic_output_phase_2/etsy/screenshots/0-8.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 50 107 1043 173">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 50 107 1043 173">
+     <span class='ocr_line' id='line_1_1' title="bbox 50 107 1043 173; baseline 0.007 -18; x_size 71; x_descenders 16; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_1' title='bbox 50 118 97 155; x_wconf 91'>=</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 189 113 315 173; x_wconf 91'>Etsy</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 864 109 917 162; x_wconf 86'>Q</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 985 107 1043 162; x_wconf 88'>F</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 71 1035 1009 1157">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 71 1035 1009 1157">
+     <span class='ocr_line' id='line_1_2' title="bbox 71 1035 1009 1084; baseline 0.001 -9; x_size 50; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_5' title='bbox 71 1035 181 1084; x_wconf 96'>Sign</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 200 1035 241 1075; x_wconf 94'>in</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 258 1041 308 1076; x_wconf 94'>to</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 325 1047 436 1076; x_wconf 96'>save</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 452 1047 563 1084; x_wconf 96'>your</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 579 1035 799 1076; x_wconf 96'>favorites</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 816 1035 906 1076; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 925 1047 1009 1076; x_wconf 96'>see</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 132 1108 948 1157; baseline 0.001 -9; x_size 50; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_13' title='bbox 132 1108 452 1157; x_wconf 95'>personalized</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 473 1108 948 1149; x_wconf 95'>recommendations.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

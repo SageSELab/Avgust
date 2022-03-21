@@ -1,0 +1,1 @@
+{"screen": "items", "triggers": ["item_i#click", "remove_bookmark#click", "save_bookmark#click", "back#click", "menu#click", "account#click"]}

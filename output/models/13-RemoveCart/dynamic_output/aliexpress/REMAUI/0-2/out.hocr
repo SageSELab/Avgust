@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/13-removecart/dynamic_output/aliexpress/screenshots/0-2.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 54 0 1068 1093">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 54 0 1068 1093">
+     <span class='ocr_line' id='line_1_1' title="bbox 54 0 1068 1093; baseline 0 0; x_size 551; x_descenders -275.5; x_ascenders 275.5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 54 0 1068 1093; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 898 1156 1028 1177">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 898 1156 1028 1177">
+     <span class='ocr_caption' id='line_1_2' title="bbox 898 1156 1028 1177; baseline 0 0; x_size 37.75; x_descenders 5.5; x_ascenders 10.75">
+      <span class='ocrx_word' id='word_1_2' title='bbox 898 1156 929 1177; x_wconf 46'>04</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 951 1156 981 1177; x_wconf 46'>45)</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1003 1156 1028 1177; x_wconf 66'>41</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 45 1265 1039 1321">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 45 1265 1039 1321">
+     <span class='ocr_line' id='line_1_3' title="bbox 45 1265 1039 1321; baseline -0.002 -5; x_size 55.417721; x_descenders 6.4177217; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_5' title='bbox 45 1277 108 1316; x_wconf 96'>US</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 125 1271 279 1321; x_wconf 93'>$82.61</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 304 1296 319 1302; x_wconf 93'>-</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 336 1277 498 1316; x_wconf 96'>475.45</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 985 1265 1039 1314; x_wconf 48'>9</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 43 1453 1034 1622">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 43 1453 1034 1622">
+     <span class='ocr_line' id='line_1_4' title="bbox 45 1453 1034 1494; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_10' title='bbox 45 1455 133 1486; x_wconf 92'>13x6</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 148 1455 200 1485; x_wconf 95'>HD</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 214 1455 436 1494; x_wconf 96'>Transparent</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 451 1455 537 1486; x_wconf 96'>Lace</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 551 1455 642 1486; x_wconf 96'>Front</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 655 1455 722 1494; x_wconf 96'>Wig</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 736 1455 780 1486; x_wconf 96'>40</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 794 1455 839 1485; x_wconf 96'>42</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 855 1453 927 1486; x_wconf 96'>Inch</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 943 1455 1034 1486; x_wconf 96'>Bone</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 44 1517 986 1558; baseline 0 -9; x_size 41; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_20' title='bbox 44 1517 186 1558; x_wconf 96'>Straight</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 201 1519 331 1550; x_wconf 96'>Human</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 347 1519 421 1550; x_wconf 96'>Hair</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 434 1517 557 1550; x_wconf 96'>Frontal</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 571 1519 661 1558; x_wconf 96'>Wigs</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 676 1517 829 1550; x_wconf 96'>Brazilian</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 844 1517 986 1558; x_wconf 96'>Straight</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 43 1581 499 1622; baseline 0.002 -9; x_size 41; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_27' title='bbox 43 1583 110 1613; x_wconf 96'>4x4</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 124 1583 188 1614; x_wconf 96'>5x5</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 203 1583 267 1614; x_wconf 95'>6x6</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 281 1581 420 1614; x_wconf 95'>Closure</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 432 1583 499 1622; x_wconf 95'>Wig</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 42 1752 116 1769">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 42 1752 116 1769">
+     <span class='ocr_line' id='line_1_7' title="bbox 42 1752 116 1769; baseline 0 0; x_size 23.333334; x_descenders 5.8333335; x_ascenders 5.8333335">
+      <span class='ocrx_word' id='word_1_32' title='bbox 42 1752 116 1769; x_wconf 96'>STORE</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,1 @@
+{"screen": "signin_or_signup", "triggers": ["to_signin_or_signup#click", "by_google#click", "bypass#click", "by_google#long"]}

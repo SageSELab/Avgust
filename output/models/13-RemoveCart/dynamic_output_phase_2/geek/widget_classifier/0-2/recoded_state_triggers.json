@@ -1,0 +1,1 @@
+{"screen": "items", "triggers": ["item_i#long", "to_search#click", "item_i#click", "search_bar#click"]}

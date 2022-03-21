@@ -1,0 +1,1 @@
+{"screen": "category", "triggers": ["search#click", "search_bar#click", "continue#click", "back#long"]}

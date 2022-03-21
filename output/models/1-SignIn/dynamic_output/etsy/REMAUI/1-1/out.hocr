@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/1-signin/dynamic_output/etsy/screenshots/1-1.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 414 749 665 784">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 414 749 665 784">
+     <span class='ocr_caption' id='line_1_1' title="bbox 414 749 665 784; baseline 0 -7; x_size 35; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 414 749 491 784; x_wconf 95'>Sign</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 505 749 533 777; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 546 753 580 777; x_wconf 95'>to</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 594 750 665 784; x_wconf 96'>Etsy</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 229 880 798 944">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 229 880 798 944">
+     <span class='ocr_caption' id='line_1_2' title="bbox 229 880 798 944; baseline 0 -16; x_size 40; x_descenders 12; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_5' title='bbox 229 880 261 944; x_wconf 68'>|</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 261 884 293 940; x_wconf 51'>£</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 365 900 528 928; x_wconf 95'>Continue</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 540 900 613 928; x_wconf 96'>with</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 628 900 798 928; x_wconf 96'>Facebook</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1790 1080 1920">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 0 1790 1080 1920">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 1790 1080 1920; baseline 0 0; x_size 174.66667; x_descenders 43.666668; x_ascenders 43.666668">
+      <span class='ocrx_word' id='word_1_10' title='bbox 0 1790 1080 1920; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

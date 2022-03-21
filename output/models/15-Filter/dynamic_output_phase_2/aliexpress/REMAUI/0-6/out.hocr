@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/saghar/Documents/dev/Final-Artifacts/output/models/15-Filter/dynamic_output_phase_2/aliexpress/screenshots/0-6.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 23 12 1059 51">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 23 12 1059 51">
+     <span class='ocr_line' id='line_1_1' title="bbox 23 12 1059 51; baseline 0.002 -5; x_size 41.714287; x_descenders 5.7142859; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_1' title='bbox 23 19 91 46; x_wconf 0'>950%</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 125 12 377 51; x_wconf 22'>@OQo0-</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 945 14 1059 48; x_wconf 2'>in</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1036 7 1062 57; x_wconf 78'>|</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 296 1920">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 0 0 296 1920">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 296 1920; baseline 0 0; x_size 960; x_descenders -480; x_ascenders 480">
+      <span class='ocrx_word' id='word_1_5' title='bbox 0 0 296 1920; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 344 106 651 150">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 344 106 651 150">
+     <span class='ocr_line' id='line_1_3' title="bbox 344 106 651 150; baseline 0 -8; x_size 44; x_descenders 8; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_6' title='bbox 344 106 385 147; x_wconf 84'>€</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 455 112 651 150; x_wconf 90'>Categories</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 336 245 658 283">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 336 245 658 283">
+     <span class='ocr_line' id='line_1_4' title="bbox 336 245 658 283; baseline 0 -8; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_8' title='bbox 336 245 480 283; x_wconf 96'>Showing</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 494 245 530 275; x_wconf 96'>all</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 544 245 658 275; x_wconf 96'>results</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 337 409 606 438">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 337 409 606 438">
+     <span class='ocr_line' id='line_1_5' title="bbox 337 409 606 438; baseline 0 0; x_size 34.372093; x_descenders 5.3720932; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_11' title='bbox 337 410 437 438; x_wconf 91'>Home</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 451 410 473 438; x_wconf 91'>&amp;</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 485 409 606 438; x_wconf 96'>Garden</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 335 572 805 609">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 335 572 805 609">
+     <span class='ocr_line' id='line_1_6' title="bbox 335 572 805 609; baseline 0 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_14' title='bbox 335 572 550 601; x_wconf 93'>Automobiles</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 564 573 586 601; x_wconf 93'>&amp;</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 599 572 805 609; x_wconf 96'>Motorcycles</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 335 735 601 772">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 335 735 601 772">
+     <span class='ocr_line' id='line_1_7' title="bbox 335 735 601 772; baseline 0 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_17' title='bbox 335 736 413 772; x_wconf 93'>Toys</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 427 736 449 764; x_wconf 93'>&amp;</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 462 735 601 764; x_wconf 96'>Hobbies</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 337 899 678 935">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 337 899 678 935">
+     <span class='ocr_line' id='line_1_8' title="bbox 337 899 678 935; baseline 0 -8; x_size 36; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_20' title='bbox 337 899 437 927; x_wconf 96'>Home</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 453 899 678 935; x_wconf 95'>Improvement</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 337 1061 620 1098">
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 337 1061 620 1098">
+     <span class='ocr_line' id='line_1_9' title="bbox 337 1061 620 1098; baseline 0 -8; x_size 37; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_22' title='bbox 337 1061 438 1098; x_wconf 93'>Lights</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 452 1062 474 1090; x_wconf 93'>&amp;</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 487 1061 620 1098; x_wconf 96'>Lighting</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 336 1224 712 1253">
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 336 1224 712 1253">
+     <span class='ocr_line' id='line_1_10' title="bbox 336 1224 712 1253; baseline 0 0; x_size 33.372093; x_descenders 5.3720932; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_25' title='bbox 336 1225 513 1253; x_wconf 96'>Consumer</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 526 1224 712 1253; x_wconf 96'>Electronics</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 336 1388 737 1424">
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 336 1388 737 1424">
+     <span class='ocr_line' id='line_1_11' title="bbox 336 1388 737 1424; baseline 0 -8; x_size 36; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_27' title='bbox 336 1388 446 1424; x_wconf 93'>Sports</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 460 1388 482 1416; x_wconf 92'>&amp;</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 495 1388 737 1416; x_wconf 96'>Entertainment</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 335 1550 720 1587">
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 335 1550 720 1587">
+     <span class='ocr_line' id='line_1_12' title="bbox 335 1550 720 1587; baseline 0 -8; x_size 36; x_descenders 8; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_30' title='bbox 335 1550 467 1587; x_wconf 93'>Jewelry</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 479 1551 501 1579; x_wconf 93'>&amp;</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 512 1551 720 1579; x_wconf 96'>Accessories</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 335 1713 426 1742">
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 335 1713 426 1742">
+     <span class='ocr_line' id='line_1_13' title="bbox 335 1713 426 1742; baseline 0 0; x_size 34.372093; x_descenders 5.3720932; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_33' title='bbox 335 1713 426 1742; x_wconf 96'>Tools</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

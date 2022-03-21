@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/15-filter/dynamic_output/6pm/screenshots/1-1.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1080 684">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 0 0 1080 684">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1080 684; baseline 0 1236; x_size 249.33334; x_descenders 62.333336; x_ascenders 62.333328">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 0 1080 684; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 26 733 1037 769">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 26 733 1037 769">
+     <span class='ocr_caption' id='line_1_2' title="bbox 26 733 1037 769; baseline 0 0; x_size 41.396225; x_descenders 5.3962264; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_2' title='bbox 26 733 155 769; x_wconf 96'>Shoes</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1002 739 1037 761; x_wconf 90'>A</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 27 873 1037 1789">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 27 873 1037 1776">
+     <span class='ocr_line' id='line_1_3' title="bbox 62 873 903 923; baseline 0 -14; x_size 41.368931; x_descenders 9.3689318; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_4' title='bbox 62 873 213 923; x_wconf 96'>Sandals</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 314 873 487 923; x_wconf 96'>Sneakers</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 589 873 693 923; x_wconf 96'>Heels</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 795 879 903 909; x_wconf 96'>Boots</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 61 1021 242 1053; baseline 0 0; x_size 41.368931; x_descenders 9.3689318; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_8' title='bbox 61 1023 152 1053; x_wconf 96'>View</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 167 1021 242 1053; x_wconf 84'>all...</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 27 1164 1037 1218; baseline 0 -14; x_size 46; x_descenders 10; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_10' title='bbox 27 1164 202 1218; x_wconf 96'>Clothing</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1007 1164 1021 1218; x_wconf 78'>“A</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 63 1310 759 1357; baseline 0 -13; x_size 39; x_descenders 9; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_12' title='bbox 63 1310 212 1357; x_wconf 96'>Dresses</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 315 1314 512 1344; x_wconf 93'>Swimsuits</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 528 1314 552 1344; x_wconf 92'>&amp;</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 565 1314 759 1353; x_wconf 92'>Cover-Ups</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 62 1452 906 1501; baseline 0 -13; x_size 41; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_16' title='bbox 62 1456 171 1488; x_wconf 93'>Shirts</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 187 1458 211 1488; x_wconf 91'>&amp;</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 223 1458 315 1497; x_wconf 96'>Tops</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 415 1452 627 1501; x_wconf 96'>Activewear</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 725 1458 816 1488; x_wconf 95'>View</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 831 1456 906 1488; x_wconf 88'>all...</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1002 1609 1037 1631; baseline 0 0; x_size 42.438995; x_descenders 9.5263157; x_ascenders 9.5263157">
+      <span class='ocrx_word' id='word_1_22' title='bbox 1002 1609 1037 1631; x_wconf 93'>A</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 63 1743 778 1789; baseline 0 -13; x_size 37.146896; x_descenders 8.1468973; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_23' title='bbox 63 1743 257 1789; x_wconf 57'>Handhbaas</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 358 1743 516 1789; x_wconf 88'>Fvewear</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 614 1747 778 1776; x_wconf 96'>Watches</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 247 1824 832 1872">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 247 1824 832 1872">
+     <span class='ocr_line' id='line_1_10' title="bbox 247 1824 832 1872; baseline -0.003 -1; x_size 58.333332; x_descenders 14.583333; x_ascenders 14.583333">
+      <span class='ocrx_word' id='word_1_26' title='bbox 247 1824 288 1872; x_wconf 92'>&lt;</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 519 1827 561 1869; x_wconf 45'>@</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 788 1826 832 1870; x_wconf 63'>a</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

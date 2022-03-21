@@ -1,0 +1,1 @@
+{"screen": "sign_in", "triggers": ["by_amazon#click", "sign_in#click", "forget_pwd#click", "sign_in#long", "password#click", "email#click"]}

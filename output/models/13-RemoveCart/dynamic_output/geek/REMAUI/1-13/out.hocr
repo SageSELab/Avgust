@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/13-removecart/dynamic_output/geek/screenshots/1-13.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 460 633 537 744">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 454 633 537 744">
+     <span class='ocr_line' id='line_1_1' title="bbox 460 633 537 744; baseline 0 -100; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 460 633 537 744; x_wconf 0'>0</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 470 752 616 799">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 470 752 616 799">
+     <span class='ocr_line' id='line_1_2' title="bbox 470 752 616 799; baseline 0 -13; x_size 41.714287; x_descenders 7.7142859; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_2' title='bbox 461 748 511 803; x_wconf 63'>Be</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 516 752 616 799; x_wconf 0'>))</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 205 868 878 909">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 205 868 878 909">
+     <span class='ocr_line' id='line_1_3' title="bbox 205 868 878 909; baseline 0 -1; x_size 45.40678; x_descenders 5.4067798; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_4' title='bbox 205 870 395 909; x_wconf 96'>Remove</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 410 868 497 909; x_wconf 96'>this</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 515 869 616 909; x_wconf 96'>item</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 633 868 743 909; x_wconf 96'>from</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 761 870 878 909; x_wconf 96'>cart?</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 421 1033 660 1066">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 421 1033 660 1066">
+     <span class='ocr_caption' id='line_1_4' title="bbox 421 1033 660 1066; baseline 0.004 -1; x_size 38.392159; x_descenders 5.3921571; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 421 1034 569 1066; x_wconf 96'>Remove</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 582 1033 660 1066; x_wconf 96'>item</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 432 1166 649 1194">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 432 1166 649 1194">
+     <span class='ocr_caption' id='line_1_5' title="bbox 432 1166 649 1194; baseline 0 0; x_size 33.365852; x_descenders 5.3658538; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_11' title='bbox 432 1167 509 1194; x_wconf 96'>Save</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 521 1166 566 1194; x_wconf 96'>for</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 579 1166 649 1194; x_wconf 95'>later</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 76 522 1004 1272">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 76 522 1004 1272">
+     <span class='ocr_line' id='line_1_6' title="bbox 76 522 1004 1272; baseline 0 648; x_size 249.33333; x_descenders 62.333332; x_ascenders 62.333336">
+      <span class='ocrx_word' id='word_1_14' title='bbox 76 522 1004 1272; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

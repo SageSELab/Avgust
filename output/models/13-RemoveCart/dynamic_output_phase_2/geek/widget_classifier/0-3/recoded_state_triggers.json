@@ -1,0 +1,1 @@
+{"screen": "item_detail", "triggers": ["back#long", "cart#click", "add_cart#click", "remove_bookmark#click"]}

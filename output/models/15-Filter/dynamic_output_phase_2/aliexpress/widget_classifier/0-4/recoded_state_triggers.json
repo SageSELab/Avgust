@@ -1,0 +1,1 @@
+{"screen": "items", "triggers": ["filter_option#click", "filter#click", "apply#click"]}

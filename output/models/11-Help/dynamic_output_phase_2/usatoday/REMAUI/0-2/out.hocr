@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/saghar/Documents/dev/Final-Artifacts/output/models/11-Help/dynamic_output_phase_2/usatoday/screenshots/0-2.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 24 12 984 51">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 24 12 984 51">
+     <span class='ocr_line' id='line_1_1' title="bbox 24 12 984 51; baseline 0 -5; x_size 41.396225; x_descenders 5.3962264; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 24 19 111 46; x_wconf 86'>12:49</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 145 15 177 48; x_wconf 43'>8</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 199 12 398 51; x_wconf 25'>G@O@G-:</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 941 6 958 56; x_wconf 0'>S</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 988 0 1080 64">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 988 0 1080 64">
+     <span class='ocr_line' id='line_1_2' title="bbox 988 0 1080 64; baseline 0 1856; x_size 81.25; x_descenders 20.3125; x_ascenders 20.3125">
+      <span class='ocrx_word' id='word_1_5' title='bbox 988 0 1080 64; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 429 323 652 367">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 429 323 652 367">
+     <span class='ocr_line' id='line_1_3' title="bbox 429 323 652 367; baseline 0 -9; x_size 44; x_descenders 9; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_6' title='bbox 429 326 494 367; x_wconf 96'>My</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 507 323 652 367; x_wconf 96'>Topics</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 69 554 528 583">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 69 554 528 583">
+     <span class='ocr_line' id='line_1_4' title="bbox 69 554 528 583; baseline 0 0; x_size 35.130081; x_descenders 6.1300807; x_ascenders 9.666667">
+      <span class='ocrx_word' id='word_1_8' title='bbox 69 554 219 583; x_wconf 96'>LATEST</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 232 554 290 583; x_wconf 95'>ON</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 304 554 383 583; x_wconf 95'>THE</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 397 554 528 583; x_wconf 96'>CRISIS</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 68 615 528 1138">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 69 615 226 646">
+     <span class='ocr_line' id='line_1_5' title="bbox 69 615 226 646; baseline 0 0; x_size 37.348839; x_descenders 6.3488369; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_12' title='bbox 69 615 226 646; x_wconf 96'>Ukraine</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 68 729 398 758">
+     <span class='ocr_line' id='line_1_6' title="bbox 68 729 398 758; baseline 0 0; x_size 38.5; x_descenders 6.5; x_ascenders 10.5">
+      <span class='ocrx_word' id='word_1_13' title='bbox 68 729 169 758; x_wconf 96'>STAY</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 183 729 398 758; x_wconf 96'>INFORMED</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 68 790 528 821">
+     <span class='ocr_line' id='line_1_7' title="bbox 68 790 528 821; baseline 0 0; x_size 37.348839; x_descenders 6.3488369; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_15' title='bbox 68 790 315 821; x_wconf 91'>Coronavirus</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 328 792 528 821; x_wconf 90'>COVID-19</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 68 965 419 1004">
+     <span class='ocr_line' id='line_1_8' title="bbox 68 965 419 1004; baseline 0 -8; x_size 39; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_17' title='bbox 68 967 89 996; x_wconf 96'>5</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 102 965 239 1004; x_wconf 95'>Things</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 251 969 292 996; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 307 967 419 996; x_wconf 96'>Know</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 69 1088 1013 1149">
+     <span class='ocr_line' id='line_1_9' title="bbox 69 1099 363 1138; baseline 0 -8; x_size 39; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_21' title='bbox 69 1099 363 1138; x_wconf 92'>Fact-Checking</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 67 1254 701 1448">
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 67 1243 1013 1454">
+     <span class='ocr_line' id='line_1_10' title="bbox 67 1254 354 1285; baseline 0 0; x_size 39.199509; x_descenders 8.1995106; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_22' title='bbox 67 1254 142 1285; x_wconf 96'>The</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 155 1254 268 1285; x_wconf 96'>Short</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 282 1254 354 1285; x_wconf 96'>List</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 69 1409 701 1448; baseline 0 -8; x_size 39; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_25' title='bbox 69 1409 242 1440; x_wconf 96'>Personal</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 257 1409 411 1440; x_wconf 96'>Finance</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 424 1409 497 1440; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 513 1409 701 1448; x_wconf 95'>Investing</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 69 904 470 933">
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 69 904 470 933">
+     <span class='ocr_line' id='line_1_12' title="bbox 69 904 470 933; baseline 0 0; x_size 35.130081; x_descenders 6.1300807; x_ascenders 9.666667">
+      <span class='ocrx_word' id='word_1_29' title='bbox 69 904 267 933; x_wconf 96'>MORNING</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 283 904 470 933; x_wconf 96'>BRIEFING</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

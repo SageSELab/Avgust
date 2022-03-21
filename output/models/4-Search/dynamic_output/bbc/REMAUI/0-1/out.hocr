@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/4-search/dynamic_output/bbc/screenshots/0-1.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 38 12 1041 51">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 38 12 1041 51">
+     <span class='ocr_line' id='line_1_1' title="bbox 38 12 1041 51; baseline 0.002 -5; x_size 40.365852; x_descenders 5.3658538; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_1' title='bbox 38 19 108 46; x_wconf 89'>458</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 141 12 394 51; x_wconf 56'>2MQo-</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 925 14 1041 48; x_wconf 9'>we</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1019 8 1044 57; x_wconf 83'>|</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 134 721 435 772">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 134 721 435 772">
+     <span class='ocr_caption' id='line_1_2' title="bbox 134 721 435 772; baseline 0 -11; x_size 51; x_descenders 11; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_5' title='bbox 134 721 435 772; x_wconf 95'>Accessibility</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 135 811 932 899">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 135 811 932 899">
+     <span class='ocr_line' id='line_1_3' title="bbox 135 811 932 851; baseline 0 -9; x_size 40; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_6' title='bbox 135 811 247 842; x_wconf 96'>Would</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 261 820 324 851; x_wconf 96'>you</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 340 811 399 842; x_wconf 95'>like</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 410 815 446 842; x_wconf 95'>to</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 461 820 524 842; x_wconf 96'>use</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 537 820 578 842; x_wconf 95'>an</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 593 811 789 842; x_wconf 96'>accessible</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 801 812 932 842; x_wconf 96'>version</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 135 859 340 899; baseline 0 -8; x_size 40; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_14' title='bbox 135 859 171 891; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 182 860 240 891; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 253 861 340 899; x_wconf 96'>app?</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 134 957 887 1047">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 134 957 887 1047">
+     <span class='ocr_line' id='line_1_5' title="bbox 134 957 887 998; baseline 0 -9; x_size 41; x_descenders 9; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_17' title='bbox 134 959 201 989; x_wconf 96'>You</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 216 967 279 989; x_wconf 96'>can</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 292 962 363 989; x_wconf 96'>turn</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 378 958 606 998; x_wconf 96'>accessibility</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 619 967 661 989; x_wconf 96'>on</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 676 967 712 989; x_wconf 96'>or</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 724 957 775 989; x_wconf 96'>off</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 789 959 816 989; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 829 958 887 989; x_wconf 96'>the</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 135 1008 490 1047; baseline 0 -9; x_size 38; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_26' title='bbox 135 1016 202 1046; x_wconf 96'>app</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 216 1008 365 1047; x_wconf 95'>Settings</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 381 1016 490 1038; x_wconf 96'>menu.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 561 1111 929 1144">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 561 1111 929 1144">
+     <span class='ocr_line' id='line_1_7' title="bbox 561 1111 929 1144; baseline 0 -6; x_size 35.583332; x_descenders 8.895833; x_ascenders 8.895833">
+      <span class='ocrx_word' id='word_1_29' title='bbox 561 1111 614 1144; x_wconf 95'>NO,</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 626 1111 776 1138; x_wconf 96'>THANKS.</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 857 1111 929 1138; x_wconf 96'>YES.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 66 654 1014 1202">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 66 654 1014 1202">
+     <span class='ocr_line' id='line_1_8' title="bbox 66 654 1014 1202; baseline 0 718; x_size 228; x_descenders 57; x_ascenders 57">
+      <span class='ocrx_word' id='word_1_32' title='bbox 66 654 1014 1202; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/14-address/dynamic_output/wish/screenshots/1-4.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 334 1060 1444">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 0 334 1060 1444">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 334 1060 1444; baseline 0 0; x_size 555; x_descenders -277.5; x_ascenders 277.5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 334 1060 1444; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 5 1328 528 1410">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 5 1328 528 1410">
+     <span class='ocr_caption' id='line_1_2' title="bbox 5 1328 528 1410; baseline 0.002 -13; x_size 79.398056; x_descenders 10.398059; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_2' title='bbox 5 1328 528 1410; x_wconf 72'>Antiswolf,spray</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 45 1526 871 1630">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 45 1526 871 1630">
+     <span class='ocr_line' id='line_1_3' title="bbox 45 1526 871 1566; baseline 0.001 -6; x_size 43.059299; x_descenders 8.0592995; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_3' title='bbox 45 1526 142 1561; x_wconf 96'>2021</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 164 1526 283 1561; x_wconf 96'>Men&#39;s</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 302 1527 376 1561; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 394 1526 580 1561; x_wconf 96'>women&#39;s</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 598 1526 871 1566; x_wconf 96'>self-defense,</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 46 1586 839 1630; baseline 0 -9; x_size 43; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_8' title='bbox 46 1587 197 1629; x_wconf 96'>Pepper</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 213 1595 327 1630; x_wconf 95'>spray</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 343 1586 605 1621; x_wconf 96'>self-defense</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 622 1587 733 1626; x_wconf 96'>tools,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 753 1595 839 1621; x_wconf 96'>new</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1596 1080 1920">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 0 1596 1080 1920">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 1596 1080 1920; baseline 0 -268; x_size 335.3125; x_descenders 83.828125; x_ascenders 83.828125">
+      <span class='ocrx_word' id='word_1_13' title='bbox 0 1596 1080 1920; x_wconf 95'>   </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

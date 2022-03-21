@@ -1,0 +1,1 @@
+{"screen": "sign_up", "triggers": ["sign_up#click", "password#click", "to_signin_or_signup#click", "back#click", "multi_form#click", "by_facebook#click", "sign_up#long", "by_google#click", "name#click", "email#click"]}

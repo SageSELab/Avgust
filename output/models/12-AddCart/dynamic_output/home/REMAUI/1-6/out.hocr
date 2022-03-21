@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/users/yixue/documents/research/usagetesting/final-artifacts/output/models/12-addcart/dynamic_output/home/screenshots/1-6.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 29 13 255 50">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 29 13 255 50">
+     <span class='ocr_line' id='line_1_1' title="bbox 29 13 255 50; baseline -0.009 0; x_size 49.777779; x_descenders 12.444445; x_ascenders 12.444445">
+      <span class='ocrx_word' id='word_1_1' title='bbox 29 13 255 50; x_wconf 41'>GM@a@a</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 53 116 350 157">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 53 116 350 157">
+     <span class='ocr_caption' id='line_1_2' title="bbox 53 116 350 157; baseline -0.003 0; x_size 46.400002; x_descenders 5.4000001; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_2' title='bbox 53 116 95 157; x_wconf 86'>€</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 192 118 350 156; x_wconf 95'>Details</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 64 254 941 300">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 64 254 941 300">
+     <span class='ocr_line' id='line_1_3' title="bbox 64 254 941 300; baseline 0.002 -12; x_size 36.377777; x_descenders 5.3777776; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_4' title='bbox 64 254 243 298; x_wconf 96'>Overview</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 372 255 506 300; x_wconf 96'>Related</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 638 261 778 290; x_wconf 96'>Product</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 792 261 941 290; x_wconf 95'>Reviews</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1080 1398">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 0 0 1080 1398">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1080 1398; baseline 0 0; x_size 699; x_descenders -349.5; x_ascenders 349.5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 0 0 1080 1398; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 769 1390 1005 1448">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 769 1390 1005 1448">
+     <span class='ocr_line' id='line_1_5' title="bbox 769 1390 1005 1448; baseline 0.004 -1; x_size 75.333336; x_descenders 18.833334; x_ascenders 18.833334">
+      <span class='ocrx_word' id='word_1_9' title='bbox 769 1392 819 1447; x_wconf 91'>&lt;</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 940 1390 1005 1448; x_wconf 62'>9</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 44 1530 1012 1634">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 44 1530 1012 1634">
+     <span class='ocr_line' id='line_1_6' title="bbox 44 1530 946 1574; baseline 0 -9; x_size 44; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_11' title='bbox 44 1530 86 1565; x_wconf 93'>10</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 106 1530 263 1565; x_wconf 90'>Pcs/Set</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 280 1531 404 1565; x_wconf 96'>Home</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 421 1531 677 1565; x_wconf 95'>Accessories</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 697 1530 946 1574; x_wconf 96'>Refrigerator</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 46 1590 1012 1634; baseline 0 -10; x_size 42; x_descenders 9; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_16' title='bbox 46 1591 120 1625; x_wconf 96'>Pad</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 138 1591 401 1625; x_wconf 93'>Antibacterial</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 419 1590 644 1634; x_wconf 91'>Antifouling</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 665 1591 814 1625; x_wconf 96'>Mildew</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 832 1591 1012 1625; x_wconf 96'>Moisture</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 1600 1080 1920">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 0 1600 1080 1920">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 1600 1080 1920; baseline 0 -264; x_size 330.3125; x_descenders 82.578125; x_ascenders 82.578125">
+      <span class='ocrx_word' id='word_1_21' title='bbox 0 1600 1080 1920; x_wconf 95'>   </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

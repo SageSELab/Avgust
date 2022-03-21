@@ -1,0 +1,34 @@
+{
+  "0-0": {
+    "true_screen_IR": "popup",
+    "true_widget_IR": "apply"
+  },
+  "0-1": {
+    "true_screen_IR": "popup",
+    "true_widget_IR": "apply"
+  },
+  "0-2": {
+    "true_screen_IR": "home",
+    "true_widget_IR": "to_search"
+  },
+  "0-3": {
+    "true_screen_IR": "search",
+    "true_widget_IR": "search_bar"
+  },
+  "usage_states": [
+    "search",
+    "sign_in",
+    "menu",
+    "items",
+    "popup",
+    "cart",
+    "get_started",
+    "signin_or_signup",
+    "end",
+    "home",
+    "start",
+    "item_detail",
+    "category"
+  ],
+  "true_label_time": 721.148118019104
+}

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/yixue/Documents/Research/UsageTesting/Final-Artifacts/output/models/7-Detail/dynamic_output_phase_2/abc/screenshots/0-5.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 25 4 1058 63">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 25 4 1058 63">
+     <span class='ocr_line' id='line_1_1' title="bbox 25 4 1058 63; baseline -0.008 -9; x_size 50.403507; x_descenders 5.4035087; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_1' title='bbox 25 4 504 63; x_wconf 0'>OOOSBhkeGa</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 889 12 946 50; x_wconf 7'> @</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 968 0 1058 58; x_wconf 90'>12:50</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 64 119 331 155">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 64 119 331 155">
+     <span class='ocr_line' id='line_1_2' title="bbox 64 119 331 155; baseline 0 -4; x_size 37.38298; x_descenders 5.3829789; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_4' title='bbox 64 119 83 155; x_wconf 90'>«</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 191 119 331 151; x_wconf 96'>Search</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1058 0 1080 64">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 1058 0 1080 64">
+     <span class='ocr_line' id='line_1_3' title="bbox 1058 0 1080 64; baseline 0 1856; x_size 81.25; x_descenders 20.3125; x_ascenders 20.3125">
+      <span class='ocrx_word' id='word_1_6' title='bbox 1058 0 1080 64; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 128 255 286 287">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 128 255 286 287">
+     <span class='ocr_line' id='line_1_4' title="bbox 128 255 286 287; baseline 0 0; x_size 37.38298; x_descenders 5.3829789; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 128 255 286 287; x_wconf 96'>election</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 63 382 976 426">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 63 382 976 426">
+     <span class='ocr_line' id='line_1_5' title="bbox 63 382 976 426; baseline 0 -13; x_size 35.444443; x_descenders 8.8611107; x_ascenders 8.8611107">
+      <span class='ocrx_word' id='word_1_8' title='bbox 63 382 206 426; x_wconf 96'>STORIES</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 336 387 476 413; x_wconf 96'>PHOTOS</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 623 387 724 413; x_wconf 96'>VIDEO</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 913 387 976 413; x_wconf 96'>ALL</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 457 1080 465">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 0 457 1080 465">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 457 1080 465; baseline 0 1455; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_12' title='bbox 0 457 1080 465; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 28 511 1002 543">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 28 511 1002 543">
+     <span class='ocr_line' id='line_1_7' title="bbox 28 511 1002 543; baseline 0 -7; x_size 32; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_13' title='bbox 28 511 174 536; x_wconf 96'>Elections</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 186 511 292 536; x_wconf 95'>official</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 306 511 332 536; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 346 511 493 543; x_wconf 96'>Michigan</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 506 511 639 543; x_wconf 96'>charged</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 652 511 720 536; x_wconf 96'>with</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 734 511 825 536; x_wconf 96'>ballot</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 835 511 1002 543; x_wconf 96'>tampering</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 27 698 1013 760">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 27 698 1013 760">
+     <span class='ocr_line' id='line_1_8' title="bbox 28 698 1013 730; baseline 0 -7; x_size 32; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_21' title='bbox 28 698 116 723; x_wconf 96'>Black</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 127 705 247 723; x_wconf 95'>women</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 260 705 311 723; x_wconf 96'>are</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 325 698 435 730; x_wconf 95'>hoping</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 448 700 480 723; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 493 698 581 723; x_wconf 96'>make</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 595 698 712 723; x_wconf 96'>historic</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 724 698 811 730; x_wconf 96'>gains</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 824 698 850 723; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 862 698 914 723; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 928 698 1013 723; x_wconf 96'>2022</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 27 735 156 760; baseline 0 0; x_size 32.210426; x_descenders 7.2104249; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_32' title='bbox 27 735 156 760; x_wconf 96'>election</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 28 922 863 954">
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 28 922 863 954">
+     <span class='ocr_line' id='line_1_10' title="bbox 28 922 863 954; baseline 0 -7; x_size 32; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_33' title='bbox 28 922 194 954; x_wconf 96'>Malaysia&#39;s</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 207 922 297 954; x_wconf 96'>ruling</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 312 924 395 954; x_wconf 96'>party</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 405 922 479 947; x_wconf 96'>wins</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 492 922 540 954; x_wconf 96'>big</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 554 922 643 954; x_wconf 95'>again</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 657 922 683 947; x_wconf 95'>in</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 696 924 775 947; x_wconf 96'>state</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 789 922 863 954; x_wconf 96'>polls</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 27 1109 932 1176">
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 27 1109 932 1176">
+     <span class='ocr_line' id='line_1_11' title="bbox 28 1109 932 1141; baseline 0 -7; x_size 32; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_42' title='bbox 28 1109 145 1134; x_wconf 96'>Former</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 157 1109 259 1141; x_wconf 96'>Trump</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 271 1109 390 1134; x_wconf 96'>adviser</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 403 1109 528 1134; x_wconf 96'>Michael</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 542 1109 629 1141; x_wconf 96'>Flynn</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 643 1111 742 1134; x_wconf 96'>meets</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 753 1109 821 1134; x_wconf 96'>with</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 833 1109 899 1134; x_wconf 96'>Jan.</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 912 1109 932 1134; x_wconf 96'>6</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 27 1146 374 1176; baseline 0 -5; x_size 30; x_descenders 5; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_51' title='bbox 27 1146 209 1176; x_wconf 96'>committee,</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 221 1146 310 1171; x_wconf 95'>takes</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 323 1146 374 1171; x_wconf 95'>5th</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 27 1333 1031 1552">
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 27 1333 1031 1552">
+     <span class='ocr_line' id='line_1_13' title="bbox 27 1333 1031 1365; baseline 0 -7; x_size 32; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_54' title='bbox 27 1333 168 1365; x_wconf 96'>Crossing</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 182 1333 292 1365; x_wconf 96'>Trump:</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 306 1333 324 1358; x_wconf 96'>2</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 337 1333 382 1358; x_wconf 96'>SC</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 395 1333 593 1365; x_wconf 96'>Republicans</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 604 1333 675 1358; x_wconf 96'>take</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 688 1333 829 1358; x_wconf 96'>different</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 840 1333 1031 1365; x_wconf 96'>approaches</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 27 1520 872 1552; baseline 0 -7; x_size 32; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_62' title='bbox 27 1520 248 1545; x_wconf 96'>Turkmenistan</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 260 1522 331 1545; x_wconf 96'>vote</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 344 1522 393 1545; x_wconf 96'>set</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 403 1522 435 1545; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 447 1520 592 1545; x_wconf 96'>establish</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 606 1520 730 1552; x_wconf 95'>political</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 743 1520 872 1552; x_wconf 96'>dynasty</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 27 1707 981 1739">
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 27 1707 981 1739">
+     <span class='ocr_line' id='line_1_15' title="bbox 27 1707 981 1739; baseline 0 -7; x_size 32; x_descenders 7; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_69' title='bbox 27 1707 182 1732; x_wconf 95'>California</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 195 1707 366 1732; x_wconf 95'>cakewalk?</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 379 1707 424 1732; x_wconf 96'>No</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 437 1707 590 1739; x_wconf 96'>big-name</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 604 1707 688 1732; x_wconf 96'>rivals</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 699 1707 743 1732; x_wconf 96'>for</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 755 1707 826 1732; x_wconf 95'>Gov.</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 840 1707 981 1732; x_wconf 95'>Newsom</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

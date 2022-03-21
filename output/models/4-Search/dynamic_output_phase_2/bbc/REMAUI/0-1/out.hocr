@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 4.1.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/Users/saghar/Documents/dev/Final-Artifacts/output/models/4-Search/dynamic_output_phase_2/bbc/screenshots/0-1.png"; bbox 0 0 1080 1920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 124 12 377 51">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 124 12 377 51">
+     <span class='ocr_caption' id='line_1_1' title="bbox 124 12 377 51; baseline 0 -3; x_size 44.666668; x_descenders 11.166667; x_ascenders 11.166667">
+      <span class='ocrx_word' id='word_1_1' title='bbox 105 8 149 65; x_wconf 31'>co</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 162 8 206 65; x_wconf 17'>EC</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 243 12 263 51; x_wconf 72'>&gt;</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 262 12 377 51; x_wconf 2'>Ra</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 48 113 698 160">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 48 113 698 160">
+     <span class='ocr_caption' id='line_1_2' title="bbox 48 113 698 160; baseline 0.002 -7; x_size 53.333332; x_descenders 13.333333; x_ascenders 13.333334">
+      <span class='ocrx_word' id='word_1_5' title='bbox 48 119 98 153; x_wconf 95'>=</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 382 109 451 171; x_wconf 14'>BL</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 450 109 508 171; x_wconf 5'>BI</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 561 118 698 154; x_wconf 0'>CINTA</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 49 253 971 303">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 49 253 971 303">
+     <span class='ocr_caption' id='line_1_3' title="bbox 49 253 971 303; baseline -0.001 -13; x_size 41; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_9' title='bbox 49 259 116 298; x_wconf 96'>Top</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 129 258 259 290; x_wconf 96'>Stories</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 347 253 386 303; x_wconf 40'>AVA</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 385 257 407 289; x_wconf 40'>Te</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 410 253 462 303; x_wconf 24'>[=Yo)</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 561 259 615 298; x_wconf 96'>My</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 628 259 729 289; x_wconf 96'>News</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 828 257 971 298; x_wconf 96'>Popular</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1080 340">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 0 0 1080 340">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1080 340; baseline 0 1580; x_size 426.25; x_descenders 106.5625; x_ascenders 106.5625">
+      <span class='ocrx_word' id='word_1_17' title='bbox 0 0 1080 340; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 1790 1080 1920">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 0 1790 1080 1920">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 1790 1080 1920; baseline 0 0; x_size 174.66667; x_descenders 43.666668; x_ascenders 43.666668">
+      <span class='ocrx_word' id='word_1_18' title='bbox 0 1790 1080 1920; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
