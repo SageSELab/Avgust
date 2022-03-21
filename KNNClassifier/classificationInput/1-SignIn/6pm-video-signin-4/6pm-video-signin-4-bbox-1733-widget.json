@@ -1,0 +1,1 @@
+{"activity_name": "Users", "request_id": 3, "is_keyboard_deployed": false, "activity": {"added_fragments": ["1"], "active_fragments": ["1"], "root": {"class": "RelativeLayout", "visibility": "", "children": [{"class": "TextView", "visibility": "visible", "text": "Type the characters above", "bounds": [13, 19, 203, 34]}], "bounds": [0, 0, 1440, 2560]}}}

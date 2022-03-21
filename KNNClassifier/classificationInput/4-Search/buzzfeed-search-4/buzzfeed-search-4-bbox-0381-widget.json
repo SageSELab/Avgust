@@ -1,0 +1,1 @@
+{"activity_name": "Users", "request_id": 3, "is_keyboard_deployed": false, "activity": {"added_fragments": ["1"], "active_fragments": ["1"], "root": {"class": "RelativeLayout", "visibility": "", "children": [{"class": "ImageView", "visibility": "visible", "bounds": [0, 0, 23, 21]}], "bounds": [0, 0, 1440, 2560]}}}

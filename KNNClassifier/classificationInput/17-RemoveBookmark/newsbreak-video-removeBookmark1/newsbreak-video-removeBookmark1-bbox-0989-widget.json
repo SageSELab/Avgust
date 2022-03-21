@@ -1,0 +1,1 @@
+{"activity_name": "Users", "request_id": 3, "is_keyboard_deployed": false, "activity": {"added_fragments": ["1"], "active_fragments": ["1"], "root": {"class": "RelativeLayout", "visibility": "", "children": [{"class": "TextView", "visibility": "visible", "text": "Some Fairfax County", "bounds": [2, 1, 233, 19]}], "bounds": [0, 0, 1440, 2560]}}}
