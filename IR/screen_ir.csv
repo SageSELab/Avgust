@@ -1,0 +1,38 @@
+ir,description,screen_type
+about,about page of the app,
+account,account page of the app,
+address_add,the address page where the user can choose to add a new address,
+address_edit,the page to edit the different info of the address,input
+alert,notification screen,
+bookmark,the page to show all bookmarked/saved items including My Topics page,
+cart,shopping cart page where the user can see all items in the cart,
+category,the page that shows all categories,
+checkout,checkout screen and payment related,
+city_spinner,the spinner to choose a city,
+confirm_remove,the dialog screen to confirm removing something such as an item from the cart,
+contact,the page that contains the contact info of the app company,
+filter,the page for any filter options,
+gender,screen to choose genger/sex,
+get_started,screen to start before the homepage such as showing get started or Pick Topics/Interests/Notifications page,
+help,the help page of the app,
+home,home screen (usually has tabs etc),
+item_detail,the detail page of an item,
+items,the page to show all items (usually a list/gallery view after search),
+menu,menu screen (usually a side bar),
+popup,any popup screen such as a 'incorrect password' popup or 'enable notifications' popup or 'permission request' popup,
+profile_edit,edit page of the user's profile,input
+pwd_assistant,passowrd assistant page,input
+quantity,the dialog screen where the user can select the quantity of the item such as in the shopping cart,
+search,search screen,input
+setting,app settings page usually a listview,
+sign_in,sign in screen with inputs fields of email/pwd etc,input
+sign_up,sign up page with input fields,input
+sign_up_birthday,the page to enter birthday during the sign up process,input
+signin_amazon,the page to sign in with Amazon account,input
+signin_fb,the screen for signing into facebook,
+signin_google,the screen for signing into google,
+signin_google_popup,the popup screen to sign in with a Google account,
+signin_or_signup,the screen to choose whether to sign in or sign up or what method to use such as email/FB/Amazon/Google,
+state_spinner,spinner to choose a state,
+terms,the page to show legal information such as terms of the app or permission related info,
+text_size,the page to adjust textsize,

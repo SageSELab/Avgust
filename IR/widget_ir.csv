@@ -1,0 +1,75 @@
+ir,description,widget_type
+about,jump to about page or app version,
+account,jump to account or profile page in the menu/tabs,
+add,jump to add things such as add new address or new interest and it usually has a plus sign and can also be used to increate the quantity,
+add_cart,add item to cart,
+address,the address that can be selected to edit,
+apply,apply or save button such as apply the chosen filter or accepting terms,
+back,back button,
+bookmark,go to bookmarks/favorite/my topics page,
+business_account,use a business account such as when signing up,
+buy,buy an item,
+by_amazon,go to the page to sign in/up with Amazon account,
+by_email,choose to sign in/up by email,
+by_facebook,go to the page to sign in/up with Facebook account,
+by_google,go to the page to sign in/up with Google account,
+captcha_input,input field for captcha in the pwd_assistant screen,input
+cart,jump to the shopping cart,
+category,jump to categories,
+category_i,choose a category such as the first one or the first auto-completed suggestion during the search,
+change_textsize,apply textsize changes,
+city,city input field or selection,input
+confirm,confirm button such as confirm removing item from the cart,
+confirm_email,confirm email input field when signing up,input
+confirm_password,confirm password input field when signing up,input
+contact,jump to the contact page,
+continue,next button or ok button or get started or continuing without signing in or skip button or the close button,
+country,country input field or choose the country,input
+deny,deny action such as denying permissions,
+edit,edit button such as a pen to change an item,
+email,email filed when signing in or signing up,input
+female,widget to show female gender,
+filter,jump to filter options for the search result,
+filter_option,choose any filter,
+forget_pwd,forget password,
+help,jump to help page,
+item_i,jump to the item's detailed page such as the first item's,
+item_option,product/item specific options such as the model of a phone,
+keep_signin,keep the user logged in (e.g. a checkbox),
+legal,jump to the legal terms page or the legal related text,
+male,widget to show male gender,
+menu,jump to main menu,
+menu_more,more info,
+menu_settings,jump to app settings,
+minus,substract the amount,
+multi_form,form to fill with multiple fields,input
+name,input field for a name,
+number,choose a number such as choose 0 quantity of the item in the cart to remove the item or choose the size,
+password,password field when signing in or signing up,input
+personal_account,use a personal account such as when signing up,
+phone,phone number input field,input
+pick_google_account,choose the google account to sign in inside the signin_google screen,
+popular,go to popular page such as trending items,
+popup,alert/notifications or pop up/banner/side menu to show notifications/ads such as new coupons,
+checkbox,any checkbox,
+quantity,enter the quantity of the item in the cart,input
+remove,remove button such as remove item from the cart,
+remove_bookmark,removes item from bookmarks,
+save_bookmark,saves item as bookmark or in the watchlist/favorites,
+search,search item and go to the search results,
+search_bar,search bar that takes the input of searching keyword,input
+select_all,select all items such as from the shopping cart,
+shipped,shipped order or past order history related,
+show,make things visible such as password and it's usually a checkbox or an eye icon,
+sign_in,sign in button to submit the inputs,
+sign_up,sign up button to submit the inputs,
+state,state input field or choose the state,input
+state_spinner,open the spinner to select a state,
+street,street input field,input
+textsize,go to page to change text size,
+to_address,jump to address management page,
+to_home,jump to home page,
+to_search,go to search screen,
+to_signin_or_signup,jump to sign in or sign up,
+username,username field when signing in or signing up,input
+zipcode,zipcode input field,input
