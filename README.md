@@ -1,5 +1,5 @@
 # Avgust
-This repository holds the source code and data for the paper "Avgust: Automating Usage-Based Test Generation from Videos of App Executions". This paper was accepted in ESEC/FSE 2022 research track. You can find the accepted paper [here]().
+This repository holds the source code and data for the paper "Avgust: Automating Usage-Based Test Generation from Videos of App Executions". This paper was accepted in ESEC/FSE 2022 research track. You can find the accepted paper [here](https://github.com/SageSELab/Avgust/blob/main/paper.pdf).
 
 Avgust is a human-in-the-loop technique that assists developers in generating usage-based tests for mobile apps by learning from videos of app usage.
 
@@ -14,4 +14,4 @@ Avgust is a human-in-the-loop technique that assists developers in generating us
 5. the IR Models, generated tests, and intermediate results (e.g., screenshots, cropped widgets, reverse engineered UI layout hierarchy) are under [`output`](https://github.com/SageSELab/Avgust/tree/main/output/models) folder.
 6. the processed video frames, screenshots, cropped widgets, keyboard classifier's results of all the usages are under [`usage_data`](https://github.com/SageSELab/Avgust/tree/main/usage_data) folde.
 
-This repository also contains the [`software requirements`]() and [`installation instructions`]() for the provided artifact.
+This repository also contains the [`software requirements`](https://github.com/SageSELab/Avgust/blob/main/REQUIREMENTS-mac.txt) and [`installation instructions`](https://github.com/SageSELab/Avgust/blob/main/INSTALL.md) for the provided artifact.

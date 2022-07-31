@@ -1,0 +1,11 @@
+apk,package,mainActivity,info
+abc.apk,com.abc.abcnews,com.abc.abcnews.ui.StartActivity,
+bbc.apk,bbc.mobile.news.ww,bbc.mobile.news.v3.app.TopLevelActivity,
+buzzfeed.apk,com.buzzfeed.android,com.buzzfeed.android.activity.SplashActivity,
+newsbreak.apk,,,v13.0.2
+fox.apk,com.foxnews.android,com.foxnews.android.corenav.StartActivity,
+dailyhunt.apk,com.eterno,com.newshunt.onboarding.view.activity.OnBoardingActivity,v17.1.5
+reuters.apk,com.thomsonreuters.reuters,com.thomsonreuters.reuters.activities.SplashActivity,
+cbs.apk,,,v4.2.4
+theguardian.apk,com.guardian,com.guardian.feature.stream.NewHomeActivity,
+usatoday.apk,com.usatoday.android.news,com.gannett.android.news.ActivityLoading,
