@@ -1,0 +1,1 @@
+We are applying for the **available** badge and we believe the provided artifact deserves this badge as all the code and data are placed on a publically accessible archival repository. Also a doi for this repository is provided.
