@@ -3,7 +3,7 @@ This repository holds the source code and data for the paper "AVGUST: Automating
 
 AVGUST is a human-in-the-loop technique that assists developers in generating usage-based tests for mobile apps by learning from videos of app usages.
 
-1. The main code base is under [`code`](https://github.com/SageSELab/Avgust/tree/main/code) folder. You can find the code related to the 4 main stages of Avgust:\
+1. The main code base is under [`code`](https://github.com/SageSELab/Avgust/tree/main/code) folder. You can find the code related to the 4 main stages of Avgust:
 >[`Step Extraction`](https://github.com/SageSELab/Avgust/tree/main/code/1_step_extraction): Processing app videos to generate app-specific UI events\
 [`IR Classification`](https://github.com/SageSELab/Avgust/tree/main/code/2_ir_classification): Classifying UI screens and widgets\
 [`Model Generation`](https://github.com/SageSELab/Avgust/tree/main/code/3_model_generation): Generating app-independent usage models\
