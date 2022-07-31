@@ -13,6 +13,6 @@ AVGUST is a human-in-the-loop technique that assists developers in generating us
 3. the definitions of canonical screens and canonical widgets are under [`IR`](https://github.com/SageSELab/Avgust/tree/main/IR) folder
 4. the intermediate embeddings output by our classifiers are under [`embeddings`](https://github.com/SageSELab/Avgust/tree/main/embeddings) folder.
 5. the IR Models, generated tests, and intermediate results (e.g., screenshots, cropped widgets, reverse engineered UI layout hierarchy) are under [`output`](https://github.com/SageSELab/Avgust/tree/main/output/models) folder.
-6. the processed video frames, screenshots, cropped widgets, keyboard classifier's results of all the usages are under [`usage_data`](https://github.com/SageSELab/Avgust/tree/main/usage_data) folde.
+6. the processed video frames, screenshots, cropped widgets, keyboard classifier's results of all the usages are under [`usage_data`](https://github.com/SageSELab/Avgust/tree/main/usage_data) folder.
 
 This repository also contains the [`software requirements`](https://github.com/SageSELab/Avgust/blob/main/REQUIREMENTS-mac.txt) and [`installation instructions`](https://github.com/SageSELab/Avgust/blob/main/INSTALL.md) for the provided artifact.
