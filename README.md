@@ -16,3 +16,5 @@ AVGUST is a human-in-the-loop technique that assists developers in generating us
 6. the processed video frames, screenshots, cropped widgets, keyboard classifier's results of all the usages are under [`usage_data`](https://github.com/SageSELab/Avgust/tree/main/usage_data) folder.
 
 This repository also contains the [`software requirements`](https://github.com/SageSELab/Avgust/blob/main/REQUIREMENTS-mac.txt) and [`installation instructions`](https://github.com/SageSELab/Avgust/blob/main/INSTALL.md) for the provided artifact.
+
+[![DOI](https://zenodo.org/badge/471224639.svg)](https://zenodo.org/badge/latestdoi/471224639)
